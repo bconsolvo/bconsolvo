@@ -14,7 +14,7 @@ Coming soon.
 *******
 
 ### My Work 💻
-<img align="left" bg=#39ffaf src="https://www.intel.com/content/dam/logos/intel-header-logo.svg" alt="Intel" />
+<img align="left" bg="#39ffaf" src="https://www.intel.com/content/dam/logos/intel-header-logo.svg" alt="Intel" />
 
 
 *******
