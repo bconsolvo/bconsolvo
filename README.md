@@ -2,11 +2,25 @@
 
 *******
 
-# Project Title
+# AI/ML Libraries
 
-A brief description of what this project does and who it's for
 <a href="https://www.tensorflow.org" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" width="40" />
+</a>
+<a href="https://pytorch.org/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40" width="40" />
+</a>
+<a href="https://pandas.pydata.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="40" width="40" />
+</a>
+<a href="https://seaborn.pydata.org/" target="blank">
+<img align="center" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40" width="40" />
+</a>
+<a href="https://opencv.org/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40" width="40" />
+</a>
+<a href="https://scikit-learn.org/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40" width="40" />
 </a>
 
 
