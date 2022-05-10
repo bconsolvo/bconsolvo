@@ -1,13 +1,26 @@
-# Hello there! 👋 
-### Howdy y'all! 🤠
+# Howdy y'all! 🤠
+### Intro
 
-Welcome! I am happy you've arrived here to learn a bit more about my coding journey. I am an advocate to developers for all things data science and machine learning. For future reference:
-ML = Machine Learning
-DL = Deep Learning
-AI = Artificial Intelligence
-DS = Data Science
+Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning.
 
 *******
+### Code Samples
+
+Coming soon.
+*******
+### YouTube
+
+Coming soon.
+*******
+
+### My Work 💻
+
+<img align="left" src="https://www.intel.com/content/dam/logos/intel-header-logo.svg" alt="Intel" />
+
+
+*******
+
+### My School 🎓
 
 # Working familiarity with these machine learning and deep learning libraries
 
