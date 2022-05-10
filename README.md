@@ -1,7 +1,11 @@
 # Hello there! 👋 
 ### Howdy y'all! 🤠
 
-Welcome! I am happy you've arrived here to learn a bit more about my coding journey. I am an advocate to developers for all things data science and machine learning. 
+Welcome! I am happy you've arrived here to learn a bit more about my coding journey. I am an advocate to developers for all things data science and machine learning. For future reference:
+ML = Machine Learning
+DL = Deep Learning
+AI = Artificial Intelligence
+DS = Data Science
 
 *******
 
