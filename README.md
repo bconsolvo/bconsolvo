@@ -3,6 +3,12 @@
 
 Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning. I make it my aim to be a lifelong learner and a servant leader. I originally grew up in the Great White North (Canada), but have made Texas my new home. I speak English and French and I am a proud dual citizen of Canada and the USA.
 
+I have spent a significant amount of my career focused on the applications of deep learning and computer vision to business tasks such as:
+
+
+🐟 Phishing Detection | CV Methods: Image Classification, Object Detection | Frameworks: PyTorch, TensorFlow, Detectron2 | Architectures: ResNet50, ResNet101
+🧂 Subsurface Salt Detection | CV Methods: Pixel Segmentation | 
+
 *******
 ### Code Samples
 
