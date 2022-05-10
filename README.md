@@ -5,9 +5,12 @@ Welcome! I am happy you've arrived here to learn a bit more about me and my codi
 
 I have spent a significant amount of my career focused on the applications of deep learning and computer vision to business tasks such as:
 
+| Task      | CV Methods | Frameworks | Architectures
+| ----------- | ----------- | ----------- | ----------- |
+| 🐟 Website Phishing Detection      | Image Classification, Object Detection | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org), [Detectron2](https://github.com/facebookresearch/detectron2) | ResNet50, ResNet101 |
+| 🧂 Subsurface Salt Detection   | Pixel Segmentation | [TensorFlow](https://www.tensorflow.org) | U-Net |
 
-🐟 Phishing Detection | CV Methods: Image Classification, Object Detection | Frameworks: PyTorch, TensorFlow, Detectron2 | Architectures: ResNet50, ResNet101
-🧂 Subsurface Salt Detection | CV Methods: Pixel Segmentation | 
+
 
 *******
 ### Code Samples
