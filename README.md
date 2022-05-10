@@ -3,14 +3,17 @@
 
 Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning. I make it my aim to be a lifelong learner and a servant leader. I originally grew up in the Great White North (Canada), but have made Texas my new home. I speak English and French and I am a proud dual citizen of Canada and the USA.
 
-I have spent a significant amount of my career focused on the applications of deep learning and computer vision to business tasks.
+I have spent a significant amount of my career focused on the applications of deep learning and computer vision to business tasks. I have included some of these below:
 
 | Task      | CV Methods | Frameworks | Architectures
 | ----------- | ----------- | ----------- | ----------- |
 | 🐟 Website Phishing Detection      | Image Classification, Object Detection | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org), [Detectron2](https://github.com/facebookresearch/detectron2) | Faster R-CNN, ResNet50, ResNet101 |
 | 🧂 Subsurface Salt Detection   | Pixel Segmentation | [TensorFlow](https://www.tensorflow.org) | U-Net |
+| 〰️ Microseismic Event Detection   | Binary Image Classification | [TensorFlow](https://www.tensorflow.org) | CNNs |
 
 
+*******
+### Sample Research
 
 *******
 ### Code Samples
