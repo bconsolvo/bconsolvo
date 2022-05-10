@@ -16,14 +16,14 @@ I have spent a significant amount of my career focused on the applications of de
 *******
 ### Sample Research
 
-| Full PDF      | Citation |
+| PDF      | Citation |
 | ----------- | ----------- |
 | [[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | Consolvo, B. P., B. DeMoss, M. Duiker, 2021, Combining physics and deep learning to automatically pick first breaks in the Permian Basin: 91st International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2021-3579730.1. |
 | [[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, Deep learning for salt body detection: A practical approach: 83rd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
 | [[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf) | Consolvo, B. P., E. Zabihi Naeini, and P. Docherty, 2020, Deep learning for salt body detection applied to 3D Gulf of Mexico data: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3417484.1. |
 | [[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657301/Consolvo2020_MicroseismicML.pdf) | Consolvo, B. P., and M. Thornton, 2020, Microseismic event or noise: Automatic classification with convolutional neural networks: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3414896.1. |
-| [[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657305/Consolvo2017_FWIOhio.pdf) | Consolvo, B. P., 2018, Full-Waveform Inversion with Scaled-Sobolev Preconditioning Applied to Vibroseis Field Data: Western University Electronic Thesis and Dissertation Repository. doi: https://ir.lib.uwo.ca/etd/5199. |
-| [[PDF]](https://doi.org/10.3997/2214-4609.201701164)  | Consolvo, B. P., M. A. H. Zuberi, R. G. Pratt, and P. W. Cary, 2017, FWI with Scaled-Sobolev Preconditioning Applied to Short-offset Vibroseis Field Data: 79th Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.201701164. |
+| [[PDF]](https://doi.org/10.3997/2214-4609.201701164) | Consolvo, B. P., 2018, Full-Waveform Inversion with Scaled-Sobolev Preconditioning Applied to Vibroseis Field Data: Western University Electronic Thesis and Dissertation Repository. doi: https://ir.lib.uwo.ca/etd/5199. |
+| [[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657305/Consolvo2017_FWIOhio.pdf)  | Consolvo, B. P., M. A. H. Zuberi, R. G. Pratt, and P. W. Cary, 2017, FWI with Scaled-Sobolev Preconditioning Applied to Short-offset Vibroseis Field Data: 79th Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.201701164. |
 
 
 
