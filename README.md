@@ -3,14 +3,17 @@
 *******
 
 # AI/ML Libraries
-Tensorflow
+
 <a href="https://www.tensorflow.org" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" width="40" />
 </a>
-PyTorch
+Tensorflow
+
 <a href="https://pytorch.org/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40" width="40" />
 </a>
+PyTorch
+
 <a href="https://pandas.pydata.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="40" width="40" />
 </a>
