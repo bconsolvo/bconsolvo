@@ -1,5 +1,5 @@
 # Hello there! 👋 
-### Introductions, introductions
+### Howdy y'all! 🤠
 
 Welcome! I am happy you've arrived here to learn a bit more about my coding journey. I am an advocate to developers for all things data science and machine learning. 
 
