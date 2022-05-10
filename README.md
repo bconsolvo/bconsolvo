@@ -1,7 +1,7 @@
 # Howdy y'all! 🤠
 ### Intro
 
-Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning.
+Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning. I am a transplant to Texas. I originally grew up in the Great White North (Canada), but have made Texas my new home. I am happy to have dual citizenship in Canada and the USA.
 
 *******
 ### Code Samples
