@@ -7,7 +7,7 @@ I have spent a significant amount of my career focused on the applications of de
 
 | Task      | CV Methods | Frameworks | Architectures
 | ----------- | ----------- | ----------- | ----------- |
-| 🐟 Website Phishing Detection      | Image Classification, Object Detection | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org), [Detectron2](https://github.com/facebookresearch/detectron2) | ResNet50, ResNet101 |
+| 🐟 Website Phishing Detection      | Image Classification, Object Detection | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org), [Detectron2](https://github.com/facebookresearch/detectron2) | Faster R-CNN, ResNet50, ResNet101 |
 | 🧂 Subsurface Salt Detection   | Pixel Segmentation | [TensorFlow](https://www.tensorflow.org) | U-Net |
 
 
