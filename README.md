@@ -16,6 +16,9 @@ I have spent a significant amount of my career focused on the applications of de
 *******
 ### Sample Research
 
+[Subsurface Salt Detection](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf)
+
+
 *******
 ### Code Samples
 
