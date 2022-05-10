@@ -1,7 +1,7 @@
 # Howdy y'all! 🤠
-### Intro
+### About Me
 
-Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning. I make it my aim to be a lifelong learner and a servant leader. I originally grew up in the Great White North (Canada), but have made Texas my new home. I speak English and French and I am a proud dual citizen of Canada and the USA.
+Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning. I began my career in teaching, followed by geophysics, and finally ended up in data science. I make it my aim to be a lifelong learner and a servant leader. I originally grew up in the Great White North (Canada), but have made Texas my new home. I speak English and French and I am a proud dual citizen of Canada and the USA.
 
 
 I have spent a significant amount of my career focused on the applications of deep learning and computer vision to business tasks. I have included some of these below:
@@ -15,6 +15,13 @@ I have spent a significant amount of my career focused on the applications of de
 
 *******
 ### Sample Research
+
+The research samples here are primarily examples of my work in deep learning, and my work in an advanced subsurface imaging technique called "full-waveform inversion" (FWI).
+
+Much of the work in deep learning can be summarized under two objectives:
+1. Greatly reduce the time required for a particular task (eg., weeks/months to minutes) and
+2. Compete or improve upon human-level accuracy
+
 
 | PDF      | Citation |
 | ----------- | ----------- |
