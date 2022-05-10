@@ -52,10 +52,11 @@ Intel </a> - I am leading the new AI Developer Program team to drive broad devel
 
 
 *******
-
 ### My School 🎓
 
-# Working familiarity with these machine learning and deep learning libraries
+*******
+
+### Familiar with these ML/DL libraries:
 
 <a href="https://www.tensorflow.org" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" width="40" />
@@ -79,6 +80,13 @@ PyTorch
 <a href="https://scikit-learn.org/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40" width="40" />
 </a>
+
+*******
+### Contact Me
+
+If you would like to connect with me to collaborate or to ask me questions, feel free to reach out to me over LinkedIn messaging: https://www.linkedin.com/in/bconsolvo/. I look forward to hearing from you!
+
+
 
 
 <!--
