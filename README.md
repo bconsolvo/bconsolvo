@@ -8,15 +8,23 @@ I have spent a significant amount of my career focused on the applications of de
 
 | Task      | CV Methods | DL Frameworks | Architectures
 | ----------- | ----------- | ----------- | ----------- |
-| 🐟 Website Phishing Detection      | Image Classification, Object Detection | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org), [Detectron2](https://github.com/facebookresearch/detectron2) | Faster R-CNN, ResNet50, ResNet101 |
+| 🐟 Phishing Website Detection      | Image Classification, Object Detection | [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org), [Detectron2](https://github.com/facebookresearch/detectron2) | Faster R-CNN, ResNet50, ResNet101 |
 | 🧂 Subsurface Salt Detection   | Pixel Segmentation | [TensorFlow](https://www.tensorflow.org) | U-Net |
 | 〰️ Microseismic Event Detection   | Binary Image Classification | [TensorFlow](https://www.tensorflow.org) | CNNs |
-
+| 🌄 First Break Picking   | Image Semantic Segmentation, Image Reconstruction | [DeepLabv3](https://github.com/VainF/DeepLabV3Plus-Pytorch), [PyTorch](https://pytorch.org/) | ResNet, DeepLabv3 |
 
 *******
 ### Sample Research
 
-[Subsurface Salt Detection](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf)
+
+
+1. Consolvo, B. P., B. DeMoss, M. Duiker, 2021, Combining physics and deep learning to automatically pick first breaks in the Permian Basin: 91st International Meeting, SEG, Expanded Abstracts.
+2. Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, Deep learning for salt body detection: A practical approach: 83rd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. 
+3. [PDF](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf) Consolvo, B. P., E. Zabihi Naeini, and P. Docherty, 2020, Deep learning for salt body detection applied to 3D Gulf of Mexico data: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3417484.1.
+4. Consolvo, B. P., and M. Thornton, 2020, Microseismic event or noise: Automatic classification with convolutional neural networks: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3414896.1.
+5. Consolvo, B. P., 2018, Full-Waveform Inversion with Scaled-Sobolev Preconditioning Applied to Vibroseis Field Data: Western University Electronic Thesis and Dissertation Repository. doi: https://ir.lib.uwo.ca/etd/5199. 
+6. Consolvo, B. P., M. A. H. Zuberi, R. G. Pratt, and P. W. Cary, 2017, FWI with Scaled-Sobolev Preconditioning Applied to Short-offset Vibroseis Field Data: 79th Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.201701164. 
+
 
 
 *******
