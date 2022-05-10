@@ -2,7 +2,7 @@
 
 *******
 
-# AI/ML Libraries
+# Working familiarity with these machine learning and deep learning libraries
 
 <a href="https://www.tensorflow.org" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" width="40" />
