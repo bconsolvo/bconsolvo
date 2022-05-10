@@ -41,7 +41,7 @@ Coming soon.
 *******
 ### YouTube
 
-Coming soon.
+Nothing uploaded yet, but coming soon: https://www.youtube.com/channel/UCtBvaqVYHvuU1y1hclh-fWA
 *******
 
 ### My Work 💻
