@@ -18,7 +18,7 @@ I have spent a significant amount of my career focused on the applications of de
 
 The research samples here are primarily examples of my work in deep learning, and my work in an advanced subsurface imaging technique called "full-waveform inversion" (FWI).
 
-Much of the work in deep learning can be summarized under two objectives:
+Much of my work in deep learning can be summarized under two objectives:
 1. Greatly reduce the time required for a particular task (eg., weeks/months to minutes) and
 2. Compete or improve upon human-level accuracy
 
