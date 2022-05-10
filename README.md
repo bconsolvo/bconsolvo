@@ -35,7 +35,7 @@ The research samples here are primarily examples of my work in deep learning, an
 
 
 *******
-### Code Samples
+### Code Samples 
 
 Coming soon.
 *******
@@ -44,15 +44,23 @@ Coming soon.
 Nothing uploaded yet, but coming soon: https://www.youtube.com/channel/UCtBvaqVYHvuU1y1hclh-fWA
 *******
 
-### My Work 💻
+### Work 💻
+
+
 <a href="https://www.intel.com/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/15691316/167534242-f101eebe-03f8-4f0b-897b-f9ccf407cf8b.png" alt="Intel" height="30" width="30" />
 Intel </a> - I am leading the new AI Developer Program team to drive broad developer education and adoption programs within the software developer community. <br/> 
 
 
 
+
 *******
-### My School 🎓
+### School 🎓
+
+<a href="https://www.uwo.ca/" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/15691316/167665214-4a7063b3-ba02-4622-a5eb-c9c98db8bf8b.svg" alt="Western" height="30" width="30" />
+Western University </a> - Master of Science in Geophysics. <br/>
+
 
 *******
 
