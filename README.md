@@ -41,7 +41,7 @@ Coming soon.
 *******
 ### YouTube
 
-I have some videos here on past presentations I have made, as well as some music.
+I have a collection of some YouTube videos here of past presentations 📈 and music 🎵!
 
 
 <b>Deep learning for salt body detection: A practical approach</b>
