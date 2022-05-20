@@ -41,6 +41,12 @@ Coming soon.
 *******
 ### YouTube
 
+I have some videos here on past presentations I have made, as well as some music.
+
+
+<b>Deep learning for salt body detection: A practical approach</b>
+[![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc)
+
 Nothing uploaded yet, but coming soon: https://www.youtube.com/channel/UCtBvaqVYHvuU1y1hclh-fWA
 *******
 
@@ -48,7 +54,7 @@ Nothing uploaded yet, but coming soon: https://www.youtube.com/channel/UCtBvaqVY
 
 
 
-https://www.youtube.com/watch?v=Mj4LVjSZYmc
+
 
 <a href="https://www.intel.com/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/15691316/167534242-f101eebe-03f8-4f0b-897b-f9ccf407cf8b.png" alt="Intel" height="30" width="30" />
