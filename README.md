@@ -43,12 +43,11 @@ Coming soon.
 
 I have a collection of some YouTube videos here of past presentations 📈 and music 🎵!
 
+|<b>Deep learning for salt body detection: A practical approach</b>       | Video2 |
+| ----------- | ----------- |
+| [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) | [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) |
 
-| <b>Deep learning for salt body detection: A practical approach</b><br/>
-[![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) |
-[![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) |
 
-Nothing uploaded yet, but coming soon: https://www.youtube.com/channel/UCtBvaqVYHvuU1y1hclh-fWA
 *******
 
 ### Work 💻
