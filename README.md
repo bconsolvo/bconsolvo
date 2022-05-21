@@ -43,9 +43,14 @@ Coming soon.
 
 I have a collection of some YouTube videos here of past presentations 📈 and music 🎵!
 
-|<b>Deep learning for salt body detection: A practical approach</b>       | Video2 |
+|<b>Deep learning for salt body detection: A practical approach</b>       | Physics and Deep Learning for First Breaks |
 | ----------- | ----------- |
-| [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) | [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) |
+| [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) | [![Physics Deep Learning First Breaks](https://img.youtube.com/vi/g8GkR6NLeqU/0.jpg)](https://youtu.be/g8GkR6NLeqU) |
+
+| <b>Viola at Founders Baptist Church</b> | 
+| ----------- | 
+| [![Viola at Founders](https://img.youtube.com/vi/SnFcSDHNdAc/0.jpg)](https://youtube.com/playlist?list=PLvvjnfHYnCOQWyztER6_L1H6Hdzf5hcH3) |
+
 
 
 *******
