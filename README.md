@@ -14,6 +14,20 @@ I have spent a significant amount of my career focused on the applications of de
 | 🌄 First Break Picking   | Image Semantic Segmentation, Image Reconstruction | [DeepLabv3](https://github.com/VainF/DeepLabV3Plus-Pytorch), [PyTorch](https://pytorch.org/) | ResNet, DeepLabv3 |
 
 *******
+### YouTube
+
+I have a collection of some YouTube videos here of past presentations 📈 and music 🎵!
+
+|<b>Deep learning for salt body detection: A practical approach</b>       | Physics and Deep Learning for First Breaks |
+| ----------- | ----------- |
+| [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) | [![Physics Deep Learning First Breaks](https://img.youtube.com/vi/g8GkR6NLeqU/0.jpg)](https://youtu.be/g8GkR6NLeqU) |
+
+| <b>Viola at Founders Baptist Church</b> | 
+| ----------- | 
+| [![Viola at Founders](https://img.youtube.com/vi/SnFcSDHNdAc/0.jpg)](https://youtube.com/playlist?list=PLvvjnfHYnCOQWyztER6_L1H6Hdzf5hcH3) |
+
+
+*******
 ### Sample Research
 
 The research samples here are primarily examples of my work in deep learning, and my work in an advanced subsurface imaging technique called "full-waveform inversion" (FWI). Much of my work in deep learning can be summarized under two objectives:
@@ -38,19 +52,6 @@ The research samples here are primarily examples of my work in deep learning, an
 ### Code Samples 
 
 Coming soon.
-*******
-### YouTube
-
-I have a collection of some YouTube videos here of past presentations 📈 and music 🎵!
-
-|<b>Deep learning for salt body detection: A practical approach</b>       | Physics and Deep Learning for First Breaks |
-| ----------- | ----------- |
-| [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) | [![Physics Deep Learning First Breaks](https://img.youtube.com/vi/g8GkR6NLeqU/0.jpg)](https://youtu.be/g8GkR6NLeqU) |
-
-| <b>Viola at Founders Baptist Church</b> | 
-| ----------- | 
-| [![Viola at Founders](https://img.youtube.com/vi/SnFcSDHNdAc/0.jpg)](https://youtube.com/playlist?list=PLvvjnfHYnCOQWyztER6_L1H6Hdzf5hcH3) |
-
 
 
 *******
