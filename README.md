@@ -16,7 +16,7 @@ I have spent a significant amount of my career focused on the applications of de
 *******
 ### YouTube
 
-I have a collection of some YouTube videos here of past presentations 📈. Would be glad to get your comments and thoughts!
+I have some YouTube videos here of past presentations 📈. Would be glad to get your comments and thoughts!
 
 |<b>Deep learning for salt body detection: A practical approach</b>       | Physics and Deep Learning for First Breaks |
 | ----------- | ----------- |
