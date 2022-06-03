@@ -3,6 +3,7 @@
 
 Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning. I began my career in teaching, followed by geophysics, and ended up in data science/AI. I now invest my time in building an ambassador team for Intel's AI products to software developers. I make it my aim to be a lifelong learner and a servant leader. I originally grew up in the Great White North (Canada), but have made Texas my new home. I speak English and French and I am a proud dual citizen of USA and Canada!
 
+![My Stack Overflow Profile](https://stackoverflow.com/users/12363294/bconsolvo?tab=profile)
 
 I have spent a significant amount of my career focused on the applications of deep learning and computer vision to business tasks. I have included some of these below:
 
@@ -52,6 +53,8 @@ The research samples here are primarily examples of my work in deep learning, an
 ### Code Samples 
 
 Coming soon.
+
+
 
 
 *******
