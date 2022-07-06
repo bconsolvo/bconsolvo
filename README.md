@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/bconsolvo/) | [Twitter](https://twitter.com/bpconsolvo) | [Stack Overflow](https://stackoverflow.com/users/12363294/bconsolvo) | [Kaggle](https://www.kaggle.com/bconsolvo) | [Huggingface](https://huggingface.co/bconsolvo) | [Reddit](https://www.reddit.com/user/bconsolvo) | [Quora](https://www.quora.com/profile/Benjamin-Consolvo) | [Twitch](https://www.twitch.tv/silvosjehoaddah)
+ [Kaggle](https://www.kaggle.com/bconsolvo) | [LinkedIn](https://www.linkedin.com/in/bconsolvo/) | [Huggingface](https://huggingface.co/bconsolvo) | [Quora](https://www.quora.com/profile/Benjamin-Consolvo) | [Reddit](https://www.reddit.com/user/bconsolvo) | [Stack Overflow](https://stackoverflow.com/users/12363294/bconsolvo) | [Twitch](https://www.twitch.tv/silvosjehoaddah) | [Twitter](https://twitter.com/bpconsolvo)
 
 # Howdy y'all! 🤠
 ### About Me
