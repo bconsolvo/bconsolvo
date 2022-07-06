@@ -1,3 +1,5 @@
+[LinkedIn](https://www.linkedin.com/in/bconsolvo/) | [Twitter](https://twitter.com/bpconsolvo) | [Stack Overflow](https://stackoverflow.com/users/12363294/bconsolvo) | [Kaggle](https://www.kaggle.com/bconsolvo)
+
 # Howdy y'all! 🤠
 ### About Me
 
