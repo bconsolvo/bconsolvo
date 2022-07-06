@@ -1,6 +1,8 @@
  <p align="center">
-    [Huggingface](https://huggingface.co/bconsolvo) | [Kaggle](https://www.kaggle.com/bconsolvo) | [LinkedIn](https://www.linkedin.com/in/bconsolvo/) | [Quora](https://www.quora.com/profile/Benjamin-Consolvo) | [Reddit](https://www.reddit.com/user/bconsolvo) | [Stack Overflow](https://stackoverflow.com/users/12363294/bconsolvo) | [Twitch](https://www.twitch.tv/silvosjehoaddah) | [Twitter](https://twitter.com/bpconsolvo)
+    
 </p>
+
+<h1 align="center">[Huggingface](https://huggingface.co/bconsolvo) | [Kaggle](https://www.kaggle.com/bconsolvo) | [LinkedIn](https://www.linkedin.com/in/bconsolvo/) | [Quora](https://www.quora.com/profile/Benjamin-Consolvo) | [Reddit](https://www.reddit.com/user/bconsolvo) | [Stack Overflow](https://stackoverflow.com/users/12363294/bconsolvo) | [Twitch](https://www.twitch.tv/silvosjehoaddah) | [Twitter](https://twitter.com/bpconsolvo)</h1>
 
 
 # Howdy y'all! 🤠
