@@ -1,9 +1,10 @@
-Online Presence:
-[Huggingface](https://huggingface.co/bconsolvo) | [Kaggle](https://www.kaggle.com/bconsolvo) | [LinkedIn](https://www.linkedin.com/in/bconsolvo/) | [Quora](https://www.quora.com/profile/Benjamin-Consolvo) | [Reddit](https://www.reddit.com/user/bconsolvo) | [Stack Overflow](https://stackoverflow.com/users/12363294/bconsolvo) | [Twitch](https://www.twitch.tv/silvosjehoaddah) | [Twitter](https://twitter.com/bpconsolvo)
-
+| <a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a> [Huggingface](https://huggingface.co/bconsolvo) | <a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a> | <a href="https://www.linkedin.com/in/bconsolvo/" target="LinkedIn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20"/></a> | <a href="https://www.quora.com/profile/Benjamin-Consolvo" target="Quora"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" height="20"/></a> | <a href="https://www.reddit.com/user/bconsolvo" target="Reddit"> <img src="https://upload.wikimedia.org/wikipedia/en/5/58/Reddit_logo_new.svg" height="20"/></a> | <a href="https://stackoverflow.com/users/12363294/bconsolvo" target="Stack Overflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" height="20"/></a> | <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" height="20"/></a> |  <a href="https://twitter.com/bpconsolvo" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="20"/></a>
+|----------- |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 
 # Howdy y'all! 🤠
 ### About Me
+
+
 
 Welcome! I am happy you've arrived here to learn a bit more about me and my coding journey. I am an advocate to developers for all things data science and machine learning. I began my career in teaching, followed by geophysics, and ended up in data science/AI. I now invest my time in building an ambassador team for Intel's AI products to software developers. I make it my aim to be a lifelong learner and a servant leader. I originally grew up in the Great White North (Canada), but have made Texas my new home. I speak English and French and I am a proud dual citizen of USA and Canada!
 
