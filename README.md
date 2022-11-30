@@ -56,7 +56,9 @@ The research samples here are primarily examples of my work in deep learning, an
 *******
 ### Code Samples 
 
-Coming soon.
+#### Natural Language Processing: Detecting Humor with DistilBERT
+I authored a GitHub repository that houses the essential elements for running an AI Hackathon for a NLP task of detecting humor, using deep learning and Habana Gaudi HPU accelerators. It can be found here: 
+https://github.com/intel/AI-Hackathon/tree/master/innovation-hackathon/natural-language-processing-track
 
 
 
