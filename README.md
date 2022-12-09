@@ -1,4 +1,4 @@
-## <a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a> | <a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a> | <a href="https://www.linkedin.com/in/bconsolvo/" target="LinkedIn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20"/></a> | <a href="https://www.quora.com/profile/Benjamin-Consolvo" target="Quora"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" height="20"/></a> | <a href="https://www.reddit.com/user/bconsolvo" target="Reddit"> <img src="https://upload.wikimedia.org/wikipedia/en/5/58/Reddit_logo_new.svg" height="20"/></a> | <a href="https://stackoverflow.com/users/12363294/bconsolvo" target="Stack Overflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" height="20"/></a> | <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" height="20"/></a> |  <a href="https://twitter.com/bpconsolvo" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="20"/></a>
+## <a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a> | <a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a> | <a href="https://www.linkedin.com/in/bconsolvo/" target="LinkedIn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20"/></a> | <a href="https://www.quora.com/profile/Benjamin-Consolvo" target="Quora"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" height="20"/></a> | <a href="https://www.reddit.com/user/bconsolvo" target="Reddit"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Reddit_logo_new.svg" height="20"/></a> | <a href="https://stackoverflow.com/users/12363294/bconsolvo" target="Stack Overflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" height="20"/></a> | <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" height="20"/></a> |  <a href="https://twitter.com/bpconsolvo" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="20"/></a>
 
 ## Howdy y'all! 🤠
 ### About Me
@@ -33,6 +33,13 @@ I have some YouTube videos here of past presentations 📈. Would be glad to get
 --->
 
 *******
+### Podcasts
+| Podcast | Episode Title | Apple | Google | Spotify | Published Date | 
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| Code Together | How Copilot, ChatGPT, Stable Diffusion and Generative AI Will Change How We Develop, Work and Live | [Apple](https://podcasts.apple.com/us/podcast/how-copilot-chatgpt-stable-diffusion-and-generative/id1510537499?i=1000589490841) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb25uZWN0ZWRzb2NpYWxtZWRpYS5jb20vY2hhbm5lbC9jb2RlLXRvZ2V0aGVyLw?sa=X&ved=0CAUQ9sEGahgKEwjI9cL1uuX5AhUAAAAAHQAAAAAQ7A) | [Spotify](https://open.spotify.com/episode/5gL4MohKAi5hiKwxu1yf1q?si=LeWktZCfRVeOdWLlfdREqw&nd=1) | Dec. 8, 2022 |
+
+
+*******
 ### Sample Research
 
 The research samples here are primarily examples of my work in deep learning, and my work in an advanced subsurface imaging technique called "full-waveform inversion" (FWI). Much of my work in deep learning can be summarized under two objectives:
@@ -40,7 +47,7 @@ The research samples here are primarily examples of my work in deep learning, an
 2. Compete or improve upon human-level accuracy
 
 
-| Full PDF      | Citation |
+| PDF      | Citation |
 | ----------- | ----------- |
 | [🌄[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | Consolvo, B. P., B. DeMoss, M. Duiker, 2021, <b>Combining physics and deep learning to automatically pick first breaks in the Permian Basin</b>: 91st International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2021-3579730.1. |
 | [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, <b>Deep learning for salt body detection: A practical approach</b>: 83rd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
@@ -49,12 +56,27 @@ The research samples here are primarily examples of my work in deep learning, an
 | [🌎[PDF]](https://ir.lib.uwo.ca/etd/5199) | Consolvo, B. P., 2018, <b>Full-Waveform Inversion with Scaled-Sobolev Preconditioning Applied to Vibroseis Field Data</b>: Western University Electronic Thesis and Dissertation Repository. doi: https://ir.lib.uwo.ca/etd/5199. |
 | [🌎[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657305/Consolvo2017_FWIOhio.pdf)  | Consolvo, B. P., M. A. H. Zuberi, R. G. Pratt, and P. W. Cary, 2017, <b>FWI with Scaled-Sobolev Preconditioning Applied to Short-offset Vibroseis Field Data</b>: 79th Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.201701164. |
 
+*******
+### Medium Articles
 
-
+| Title | Published Date | 
+| ----- | ----- | 
+| [Training an NLP Humor Model Using Habana Gaudi HPUs](https://medium.com/p/496a75e57680) | Dec. 9, 2022 |
+| [Accelerating Credit Card Fraud Detection](https://medium.com/intel-analytics-software/accelerating-credit-card-fraud-detection-f136fe56b1ac) | Dec. 5, 2022 |
 
 
 *******
-### Code Samples 
+### Kaggle Notebooks
+
+| Title | Published Date | 
+| ----- | ----- | 
+| [Training humor detection with DistilBERT](https://www.kaggle.com/code/bconsolvo/training-humor-detection-with-distilbert) | Dec. 9, 2022 |
+| [Hardware Available on Kaggle](https://www.kaggle.com/code/bconsolvo/hardware-available-on-kaggle) | Oct. 1, 2022 |
+| [U-Net Convolutional Neural Network - Salt or Not](https://www.kaggle.com/code/bconsolvo/u-net-convolutional-neural-network-salt-or-not) | 2018 | 
+
+
+*******
+### GitHub Code Samples
 
 #### Natural Language Processing: Detecting Humor with DistilBERT
 I authored a GitHub repository that houses the essential elements for running an AI Hackathon for a NLP task of detecting humor, using deep learning and Habana Gaudi HPU accelerators. It can be found here: 
@@ -86,32 +108,6 @@ Intel </a> - I am leading the new AI Developer Program team to drive broad devel
 Western University </a> - Master of Science in Geophysics. <br/>
 
 
-*******
-
-### Familiar with these ML/DL libraries:
-
-<a href="https://www.tensorflow.org" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" width="40" />
-</a>
-TensorFlow <br/>
-
-<a href="https://pytorch.org/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40" width="40" />
-</a>
-PyTorch
-
-<a href="https://pandas.pydata.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="40" width="40" />
-</a>
-<a href="https://seaborn.pydata.org/" target="blank">
-<img align="center" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40" width="40" />
-</a>
-<a href="https://opencv.org/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40" width="40" />
-</a>
-<a href="https://scikit-learn.org/" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40" width="40" />
-</a>
 
 *******
 ### Contact Me
