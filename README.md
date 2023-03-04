@@ -61,6 +61,7 @@ The research samples here are primarily examples of my work in deep learning, an
 
 | Title | Published Date | 
 | ----- | ----- | 
+| [Quantizing a DistilBERT Humor NLP Model](https://medium.com/intel-analytics-software/quantizing-a-distilbert-humor-nlp-model-c638058bb7d) | Dec. 12, 2022 | 
 | [Training an NLP Humor Model Using Habana Gaudi HPUs](https://medium.com/p/496a75e57680) | Dec. 9, 2022 |
 | [Accelerating Credit Card Fraud Detection](https://medium.com/intel-analytics-software/accelerating-credit-card-fraud-detection-f136fe56b1ac) | Dec. 5, 2022 |
 
