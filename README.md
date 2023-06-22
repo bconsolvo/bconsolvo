@@ -13,6 +13,7 @@ Here is a sample of some of my contributions to the GitHub open-source community
 
 | Activity Title & Link | Contribution Type | Description | Date | 
 | ----- | ----- | ----- | ----- | 
+| [CPU Accelerated Fine-Tuning for Image Segmentation using PyTorch](https://github.com/intel/intel-extension-for-pytorch/blob/master/examples/cpu/usecase_spacenet5/20230303_consolvo_spacenet5_ipex.ipynb) | Notebook | I released a comprehensive tutorial on a deep learning (pixel segmentation) task on the official Intel Extension for PyTorch repository. | Mar. 2023 | 
 | [Remove metadata.clusterName entirely from cluster.yaml](https://github.com/GoogleCloudPlatform/kubeflow-distribution/pull/426) | Pull Request | In deploying Kubeflow on GCP, I noticed problems with the cluster.yaml file and contributed to the formal GCP implementation | June 2023 | 
 | [Remove clusterName from nodepool.yaml](https://github.com/GoogleCloudPlatform/kubeflow-distribution/pull/427) | Pull Request | In deploying Kubeflow on GCP, I noticed some problems with the nodepool.yaml file with the latest release | June 2023 | 
 | [Natural Language Processing: Detecting Humor with DistilBERT on Habana Gaudi](https://github.com/intel/AI-Hackathon/tree/master/innovation-hackathon/natural-language-processing-track) | New Repo | Led an AI hackathon for a NLP task of detecting humor, using deep learning and Habana Gaudi HPU accelerators.  | Sep. 2022 | 
