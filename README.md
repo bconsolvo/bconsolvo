@@ -4,7 +4,7 @@
 
 
 
-Howdy y'all! 🤠 I am happy you've arrived here to learn a bit more about me and my journey. I am an advocate to developers for all things AI. I began my career in teaching, followed by geophysics, and then AI. I make it my aim to be a lifelong learner and a servant leader. I originally grew up in the Great White North (Canada), but have made Texas my home. I speak English and French and I am a dual citizen of USA and Canada.
+Howdy y'all! 🤠 I am an AI Solutions Engineer Manager at Intel. I have a team of AI Engineers who are dedicated to building community around Intel's AI software and hardware offerings. I have a strong background in deep learning (DL), particularly in computer vision, and now have expanded my expertise to include generative AI and large language models (LLMs). I have experience in applying my engineering skills in the cybersecurity industry to automatically identify phishing websites, and in the oil and gas industry to identify subsurface features in geophysical imaging.
 
 *******
 ### <p align="center"><a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a></p>
