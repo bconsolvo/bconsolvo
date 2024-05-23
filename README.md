@@ -18,7 +18,7 @@ Howdy! I am an AI Engineering Manager at Intel. I enjoy building cutting-edge ge
 - [Kaggle Contributions](#kaggle-contributions) - Here are a few of my Python notebooks I have published on Kaggle, including one detailing the hardware available on the platform. 
 - [GitHub Activity](#github-activity) - A sample of my direct contributions to the GitHub open-source community.
 - [Podcasts](#podcasts) - Podcasts where I was a guest speaker.
-- [Work Experience](#work-experience) - My journey in work has been a transition from geophysics to AI.
+- [Work Experience](#work-experience) - My journey in work has mostly been focused around AI and geophysics. 
 - [Education](#education) - Starting from a strong foundation of mathematics, I moved into teaching and then a [thesis-based](https://ir.lib.uwo.ca/etd/5199) geophysics degree.
 - [Contact](#contact) - How to reach me.
 
@@ -141,13 +141,13 @@ A sample of my direct contributions to the GitHub open-source community.
 *******
 
 ## Work Experience
-My journey in work has been mostly geophysics and AI. For more detail, please visit my [LinkedIn profile](https://linkedin.com/in/bconsolvo).
+My journey in work has mostly been focused around AI and geophysics. For more detail, please visit my [LinkedIn profile](https://linkedin.com/in/bconsolvo).
 
 | Company | Role | Location | Dates | 
 | ----- | ----- | ----- | ----- |
 | Intel | AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
 | Zvelo | Senior AI Engineer (Computer Vision) | Spring, TX | 06/2020 - 04/2022 | 
-| Fairfield Geotechnologies | Research Data Scientist (Computer Vision) and Geophysicist (FWI) | Houston, TX | 05/2019 - 05/2020 | 
+| Fairfield Geotechnologies | Research Data Scientist and Geophysicist (FWI) | Houston, TX | 05/2019 - 05/2020 | 
 | MicroSeismic | Python Developer, Geophysicist, Field Geophysicist | Houston, TX | 02/2018 - 04/2019 | 
 | ExxonMobil | Geophysics Intern (FWI Research) | Spring, TX | 01/2017 - 06/2017 | 
 
