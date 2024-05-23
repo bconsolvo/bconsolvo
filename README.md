@@ -1,10 +1,34 @@
 
 ### <p align="center">About Me</p>
-### <p align="center"><a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a> | <a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a> | <a href="https://www.linkedin.com/in/bconsolvo/" target="LinkedIn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20"/></a> | <a href="https://www.quora.com/profile/Benjamin-Consolvo" target="Quora"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" height="20"/></a> | <a href="https://www.reddit.com/user/bconsolvo" target="Reddit"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Reddit_Logo_Icon.svg" height="20"/></a> | <a href="https://stackoverflow.com/users/12363294/bconsolvo" target="Stack Overflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" height="20"/></a> | <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" height="20"/></a> |  <a href="https://twitter.com/bpconsolvo" target="Twitter"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="20"/></a> | <a href="https://medium.com/@benjamin.consolvo" target="Medium"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" height="20"/></a> | <a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a> | <a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"  target="Google Scholar"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png"  height="20"/></a></p> 
+### <p align="center"><a href="https://www.linkedin.com/in/bconsolvo/" target="LinkedIn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20"/></a> | <a href="https://medium.com/@benjamin.consolvo" target="Medium"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" height="20"/></a> | <a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a> | <a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a> |   <a href="https://www.reddit.com/user/bconsolvo" target="Reddit"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Reddit_Logo_Icon.svg" height="20"/></a> | <a href="https://stackoverflow.com/users/12363294/bconsolvo" target="Stack Overflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" height="20"/></a> |   <a href="https://twitter.com/bpconsolvo" target="Twitter"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="20"/></a> |   <a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"  target="Google Scholar"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png"  height="20"/></a></p> 
 
+<!--- 
+Quora <a href="https://www.quora.com/profile/Benjamin-Consolvo" target="Quora"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" height="20"/></a> | 
+Twitch <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" height="20"/></a> |
+GitHub <a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a> |
+--->
 
+Howdy! I am an AI Engineering Manager at Intel. I enjoy building cutting-edge generative AI and Large Language Model (LLM) solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. My aim is to empower AI developers and professionals with the software, code, and tools they need to succeed. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/bconsolvo).
 
-Howdy y'all! 🤠 I am an AI Solutions Engineer Manager at Intel. I have a team of AI Engineers who are dedicated to building community around Intel's AI software and hardware offerings. I have a strong background in deep learning (DL), particularly in computer vision, and now have expanded my expertise to include generative AI and large language models (LLMs). I have experience in applying my engineering skills in the cybersecurity industry to automatically identify phishing websites, and in the oil and gas industry to identify subsurface features in geophysical imaging.
+*******
+### <p align="center">YouTube and Recorded Content</p>
+
+table {
+    width:100%;
+}
+|<style>
+    table {
+        width: 100%;
+    }
+</style> |
+| ----------- |
+| [How to Set Up Cloud-Based Distributed Training to Fine-Tune an LLM](https://www.intel.com/content/www/us/en/developer/videos/cloud-based-distributed-training-fine-tune-an-llm.html#gs.9sldf8) [![How to Set Up Cloud-Based Distributed Training to Fine-Tune an LLM](https://github.com/bconsolvo/bconsolvo/assets/15691316/2df2c978-17a6-4727-8e31-d1d65cb5db54)](https://www.intel.com/content/www/us/en/developer/videos/cloud-based-distributed-training-fine-tune-an-llm.html#gs.9sldf8) | 
+| [Seismic Data to Subsurface Models with OpenFWI: Training an AI Model with PyTorch](https://www.youtube.com/watch?v=zvk3Rr-OjU0&t=757s) [![Seismic Data to Subsurface Models with OpenFWI: Training an AI Model with PyTorch](https://github.com/bconsolvo/bconsolvo/assets/15691316/4a67d2be-0470-4324-ac8c-b89e3217088a)](https://www.youtube.com/watch?v=zvk3Rr-OjU0&t=757s) |
+| [Find the Humor in Text Data: NLP with Intel & Habana*](https://www.intel.com/content/www/us/en/developer/videos/finding-the-humor-in-text-data-nlp-intel-habana.html?) [![Find the Humor in Text Data: NLP with Intel & Habana*](https://github.com/bconsolvo/bconsolvo/assets/15691316/e9661f04-f5f0-4884-976b-6c3d40167e7a)](https://www.intel.com/content/www/us/en/developer/videos/finding-the-humor-in-text-data-nlp-intel-habana.html?) |
+| [CPU accelerated fine-tuning for image segmentation using PyTorch](https://www.youtube.com/watch?v=LVZWm5GFvAw) [![CPU accelerated fine-tuning for image segmentation using PyTorch](https://github.com/bconsolvo/bconsolvo/assets/15691316/0b64b923-bff0-4442-b0b7-88497863394d)](https://www.youtube.com/watch?v=LVZWm5GFvAw) | 
+| [Underground Salt Domes! Fun With Deep Learning](https://www.youtube.com/watch?v=Mj4LVjSZYmc) [![EAGE2020 Salt Body Detection](https://github.com/bconsolvo/bconsolvo/assets/15691316/079ec0e1-ebed-40a5-8997-f46b55b9f988)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) |
+| [Physics and Deep Learning for First Breaks](https://youtu.be/g8GkR6NLeqU) [![Physics Deep Learning First Breaks](https://github.com/bconsolvo/bconsolvo/assets/15691316/b0eda12b-0980-4821-b1d1-30048f7bebd2)](https://youtu.be/g8GkR6NLeqU) |
+| [XGBoost* Kubeflow* Pipeline Intel® Cloud Optimization Modules for Microsoft Intel Software](https://www.youtube.com/watch?v=TB3noZr8lZM&t=898s) [![XGBoost* Kubeflow* Pipeline Intel® Cloud Optimization Modules for Microsoft Intel Software](https://github.com/bconsolvo/bconsolvo/assets/15691316/5029988e-62d8-445d-8317-e299b1a9fc96)](https://www.youtube.com/watch?v=TB3noZr8lZM&t=898s) |
 
 *******
 ### <p align="center"><a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a></p>
@@ -75,7 +99,9 @@ The research samples here are primarily examples of my work in deep learning and
 
 | PDF      | Citation |
 | ----------- | ----------- |
-| [🌄[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | Consolvo, B. P., B. DeMoss, M. Duiker, 2021, <b>Combining physics and deep learning to automatically pick first breaks in the Permian Basin</b>: 91st International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2021-3579730.1. |
+| - | Jin, P., Y. Feng, S. Feng, H. Wang, Y. Chen, B. Consolvo, Z. Liu, Y. Lin, 2024, Does Full Waveform Inversion Benefit from Big Data? Manuscript submitted for publication. |
+| - | Consolvo, B. P., 2024, 3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East: Fourth International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists and American Association of Petroleum Geologists. |
+| [🌄[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | Consolvo, B. P., B. DeMoss, M. Duiker, 2021, <b>Combining physics and deep learning to automatically pick first breaks in the Permian Basin</b>: First International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists. doi: https://doi.org/10.1190/segam2021-3579730.1. |
 | [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, <b>Deep learning for salt body detection: A practical approach</b>: 83rd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
 | [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf) | Consolvo, B. P., E. Zabihi Naeini, and P. Docherty, 2020, <b>Deep learning for salt body detection applied to 3D Gulf of Mexico data</b>: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3417484.1. |
 | [〰️[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657301/Consolvo2020_MicroseismicML.pdf) | Consolvo, B. P., and M. Thornton, 2020, <b>Microseismic event or noise: Automatic classification with convolutional neural networks</b>: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3414896.1. |
@@ -84,19 +110,7 @@ The research samples here are primarily examples of my work in deep learning and
 
 
 
-*******
-### <p align="center">YouTube and Video Content</p>
 
-I share my passion in my videos for AI, music, and geophysics.
-
-|<b>Deep learning for salt body detection: A practical approach</b>       | Physics and Deep Learning for First Breaks |
-| ----------- | ----------- |
-| [![EAGE2020 Salt Body Detection](https://img.youtube.com/vi/Mj4LVjSZYmc/0.jpg)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) | [![Physics Deep Learning First Breaks](https://img.youtube.com/vi/g8GkR6NLeqU/0.jpg)](https://youtu.be/g8GkR6NLeqU) |
-
-| <b>Viola at Founders Baptist Church</b> | CPU Accelerated Fine-Tuning for Image Segmentation using PyTorch | 
-| ----------- | ----------- |
-| [![Viola at Founders](https://img.youtube.com/vi/SnFcSDHNdAc/0.jpg)](https://youtube.com/playlist?list=PLvvjnfHYnCOQWyztER6_L1H6Hdzf5hcH3) | [![CPU Accelerated Fine-Tuning for Image Segmentation using PyTorch](https://img.youtube.com/vi/LVZWm5GFvAw/0.jpg)](https://www.youtube.com/watch?v=LVZWm5GFvAw) | 
- 
 
 
 *******
