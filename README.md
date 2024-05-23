@@ -8,47 +8,19 @@ Twitch <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src
 GitHub <a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a> |
 --->
 
-Howdy! I am an AI Engineering Manager at Intel. I enjoy building cutting-edge generative AI and Large Language Model (LLM) solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. My aim is to empower AI developers and professionals with the software, code, and tools they need to succeed. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/bconsolvo).
+Howdy! I am an AI Engineering Manager at Intel. I enjoy building cutting-edge generative AI and Large Language Model (LLM) solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. My aim is to empower AI developers and professionals with the software, code, and tools they need to succeed. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/bconsolvo). You can find samples of my work here through the links I provide to videos, code, and articles.
 
 *******
 ## Sections
-[YouTube and Recorded Content](#youtube-and-recorded-content)
-
-
-*******
-### <p align="center"><a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a></p>
-
-Here is a sample of some of my contributions to the GitHub open-source community.
-
-| Activity Title & Link | Contribution Type | Description | Date | 
-| ----- | ----- | ----- | ----- | 
-| [CPU Accelerated Fine-Tuning for Image Segmentation using PyTorch](https://github.com/intel/intel-extension-for-pytorch/blob/master/examples/cpu/usecase_spacenet5/20230303_consolvo_spacenet5_ipex.ipynb) | Notebook | I released a comprehensive tutorial on a deep learning (pixel segmentation) task on the official Intel Extension for PyTorch repository. An accompanying blog was posted on the [official PyTorch website here](https://pytorch.org/blog/accelerated-image-seg/)! | Mar. 2023 | 
-| [Remove metadata.clusterName entirely from cluster.yaml](https://github.com/GoogleCloudPlatform/kubeflow-distribution/pull/426) | Pull Request | In deploying Kubeflow on GCP, I noticed problems with the cluster.yaml file and contributed to the formal GCP implementation | June 2023 | 
-| [Remove clusterName from nodepool.yaml](https://github.com/GoogleCloudPlatform/kubeflow-distribution/pull/427) | Pull Request | In deploying Kubeflow on GCP, I noticed some problems with the nodepool.yaml file with the latest release | June 2023 | 
-| [Natural Language Processing: Detecting Humor with DistilBERT on Habana Gaudi](https://github.com/intel/AI-Hackathon/tree/master/innovation-hackathon/natural-language-processing-track) | New Repo | Led an AI hackathon for a NLP task of detecting humor, using deep learning and Habana Gaudi HPU accelerators.  | Sep. 2022 | 
-
-*******
-### <p align="center"><a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a></p>
-
-I have been contributing model cards and demos of models on the Hugging Face website.
-
-| Title | Contribution Type | Date | 
-| ----- | ----- | ----- | 
-| [90% Sparse BERT-Base (uncased) Prune Once For All](https://huggingface.co/Intel/bert-base-uncased-sparse-90-unstructured-pruneofa) | Model Card | Apr. 2023 | 
-| [90% Sparse DistilBERT-Base (uncased) Prune Once for All](https://huggingface.co/Intel/distilbert-base-uncased-sparse-90-unstructured-pruneofa) | Model Card | Apr. 2023 | 
-| [90% Sparse BERT-Large (uncased) Prune Once for All](https://huggingface.co/Intel/bert-large-uncased-sparse-90-unstructured-pruneofa) | Model Card | Apr. 2023 | 
-| [85% Sparse DistilBERT-Base (uncased) Prune Once for All](https://huggingface.co/Intel/distilbert-base-uncased-sparse-85-unstructured-pruneofa) | Model Card | Apr. 2023 | 
-| [85% Sparse BERT-Base (uncased) Prune Once For All](https://huggingface.co/Intel/bert-base-uncased-sparse-85-unstructured-pruneofa) | Model Card | Apr. 2023 | 
-| [80% 1x4 Block Sparse BERT-Base (uncased) Fine Tuned on SQuADv1.1](https://huggingface.co/Intel/bert-base-uncased-squadv1.1-sparse-80-1x4-block-pruneofa) | Model Card | Apr. 2023 | 
-| [Question & Answer with Sparse BERT using the SQuAD dataset](https://huggingface.co/spaces/Intel/qa_sparse_bert) | Space | Mar. 2023 | 
-| [Dynamic-TinyBERT](https://huggingface.co/Intel/dynamic_tinybert) | Model Card | Mar. 2023 | 
-| [DPT-Hybrid](https://huggingface.co/Intel/dpt-hybrid-midas) | Model Card | Mar. 2023 | 
-| [DPT-Large](https://huggingface.co/Intel/dpt-large) | Model Card | Feb. 2023 | 
-| [INT8 DistilBERT base uncased finetuned SST-2](https://huggingface.co/Intel/distilbert-base-uncased-finetuned-sst-2-english-int8-static) | Model Card | Feb. 2023 | 
+- [YouTube and Recorded Content](#youtube-and-recorded-content) - Recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines on Microsoft Azure.
+- [GitHub Activity](#github-activity) - A sample of my direct contributions to the GitHub open-source community.
+- [Hugging Face Contributions](#hugging-face-contributions) - Some of the model cards I have contributed to Hugging Face.
+- [Kaggle Contributions](#kaggle-contributions) - Here are a few of my Python notebooks I have published on Kaggle.
 
 
 *******
 ## YouTube and Recorded Content
+Recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines on Microsoft Azure.
 
 | Video Link | Description | 
 | ----------- | ----------- |
@@ -59,13 +31,50 @@ I have been contributing model cards and demos of models on the Hugging Face web
 | [Underground Salt Domes! Fun With Deep Learning](https://www.youtube.com/watch?v=Mj4LVjSZYmc) [![EAGE2020 Salt Body Detection](https://github.com/bconsolvo/bconsolvo/assets/15691316/079ec0e1-ebed-40a5-8997-f46b55b9f988)](https://www.youtube.com/watch?v=Mj4LVjSZYmc) | Interpreting salt bodies in the subsurface is a challenging manual task that can take weeks to complete. Obtaining accurate picks of salt is very important, because errors in the placement of salt can result in severe degradation of the seismic image. The U-Net architecture proved robust with the placement of salt at 98% accuracy. Beyond accuracy, U-Net also proved to be the fastest, requiring only 3.5 hours to predict salt on the 3D seismic volume. The results presented here along with other recent studies of deep learning for salt interpretation represent a clear shift in the seismic interpretation workflow. |
 | [Physics and Deep Learning for First Breaks](https://youtu.be/g8GkR6NLeqU) [![Physics Deep Learning First Breaks](https://github.com/bconsolvo/bconsolvo/assets/15691316/b0eda12b-0980-4821-b1d1-30048f7bebd2)](https://youtu.be/g8GkR6NLeqU) | 	Microseismic monitoring is a crucial element to understanding hydraulic fracturing operations prior to oil and gas production. One of the more tedious quality control (QC) measures that must often be performed following a microseismic processing workflow is a visual inspection of seismic data to determine whether the data contain microseismic events or only noise. We propose using a supervised deep learning algorithm, a convolutional neural network (CNN), to automatically classify microseismic events from noise. Using our deep learning approach, we show that the time for QC can be reduced from weeks to hours with high accuracy. |
 | [XGBoost* Kubeflow* Pipeline Intel® Cloud Optimization Modules for Microsoft Intel Software](https://www.youtube.com/watch?v=TB3noZr8lZM&t=898s) [![XGBoost* Kubeflow* Pipeline Intel® Cloud Optimization Modules for Microsoft Intel Software](https://github.com/bconsolvo/bconsolvo/assets/15691316/5029988e-62d8-445d-8317-e299b1a9fc96)](https://www.youtube.com/watch?v=TB3noZr8lZM&t=898s) | Learn how to build secure, scalable, and accelerated XGBoost pipelines on an Azure Kubernetes service cluster, leveraging Intel SGX. This tutorial walks you through the process from setting up the container to building the full Kubeflow Pipeline using an example application. Access the full source code on [GitHub](https://bit.ly/495trID). |
+*******
+## GitHub Activity
+<!---
+### <p align="center"><a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a></p>
+--->
 
+A sample of my direct contributions to the GitHub open-source community.
+
+| Activity Title & Link | Contribution Type | Description |
+| ----- | ----- | ----- | 
+| [Intel® Optimized Cloud Modules for GCP: nanoGPT Distributed Training](https://github.com/intel/intel-cloud-optimizations-gcp/tree/main/distributed-training/nlp) | New Repo | A guided tour on fine-tuning nanoGPT (124M parameter) model on a cluster of CPUs on Google Cloud Platform. | 
+| [CPU Accelerated Fine-Tuning for Image Segmentation using PyTorch](https://github.com/intel/intel-extension-for-pytorch/blob/master/examples/cpu/usecase_spacenet5/20230303_consolvo_spacenet5_ipex.ipynb) | Python Notebook | Comprehensive tutorial on a deep learning (pixel segmentation) task on the official Intel Extension for PyTorch repository. An accompanying blog was posted on the [official PyTorch website here](https://pytorch.org/blog/accelerated-image-seg/). | 
+| [Remove metadata.clusterName entirely from cluster.yaml](https://github.com/GoogleCloudPlatform/kubeflow-distribution/pull/426) | Pull Request | In deploying Kubeflow on GCP, I noticed problems with the cluster.yaml file and contributed to the formal GCP implementation | 
+| [Natural Language Processing: Detecting Humor with DistilBERT on Habana Gaudi](https://github.com/intel/ai-innovation-bridge/tree/master/hackathons/hack-for-good-2022/natural-language-processing-track) | New Repo | Led an AI hackathon for a NLP task of detecting humor, using deep learning and Habana Gaudi HPU accelerators.  |
+
+*******
+<!--- 
+### <p align="center"><a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a></p>
+--->
+## Hugging Face Contributions
+
+Some of the model cards I have contributed to Hugging Face.
+
+| Title | Contribution Type |
+| ----- | ----- | 
+| [90% Sparse BERT-Base (uncased) Prune Once For All](https://huggingface.co/Intel/bert-base-uncased-sparse-90-unstructured-pruneofa) | Model Card |
+| [90% Sparse DistilBERT-Base (uncased) Prune Once for All](https://huggingface.co/Intel/distilbert-base-uncased-sparse-90-unstructured-pruneofa) | Model Card |
+| [90% Sparse BERT-Large (uncased) Prune Once for All](https://huggingface.co/Intel/bert-large-uncased-sparse-90-unstructured-pruneofa) | Model Card |
+| [85% Sparse DistilBERT-Base (uncased) Prune Once for All](https://huggingface.co/Intel/distilbert-base-uncased-sparse-85-unstructured-pruneofa) | Model Card | 
+| [85% Sparse BERT-Base (uncased) Prune Once For All](https://huggingface.co/Intel/bert-base-uncased-sparse-85-unstructured-pruneofa) | Model Card | 
+| [80% 1x4 Block Sparse BERT-Base (uncased) Fine Tuned on SQuADv1.1](https://huggingface.co/Intel/bert-base-uncased-squadv1.1-sparse-80-1x4-block-pruneofa) | Model Card | 
+| [Question & Answer with Sparse BERT using the SQuAD dataset](https://huggingface.co/spaces/Intel/qa_sparse_bert) | Space | 
+| [Dynamic-TinyBERT](https://huggingface.co/Intel/dynamic_tinybert) | Model Card | 
+| [DPT-Hybrid](https://huggingface.co/Intel/dpt-hybrid-midas) | Model Card | 
+| [DPT-Large](https://huggingface.co/Intel/dpt-large) | Model Card | 
+| [INT8 DistilBERT base uncased finetuned SST-2](https://huggingface.co/Intel/distilbert-base-uncased-finetuned-sst-2-english-int8-static) | Model Card |
 
 
 *******
+<!--- 
 ### <p align="center"><a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a></p>
-
-Here are a few of my notebooks I have published on Kaggle!
+--->
+## Kaggle Contributions
+Here are a few of my Python notebooks I have published on Kaggle.
 
 | Title | Published Date | 
 | ----- | ----- | 
