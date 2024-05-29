@@ -13,6 +13,7 @@ Howdy! I am an AI Engineering Manager at Intel. I enjoy building cutting-edge ge
 ## Contributions
 - [YouTube and Recorded Content](#youtube-and-recorded-content) - Here are some examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines on Microsoft Azure.
 - [Medium Articles](#medium-articles) - Here are some of my published articles on Medium, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
+- [Conference Talks](#conference-talks) - Samples of my speaking engagements at technical conferences.
 - [Publications](#publications) - A list of my formal research publications, primarily composed of my work in deep learning and subsurface imaging.
 - [Hugging Face Contributions](#hugging-face-contributions) - Some of the model cards and other materials I have contributed to Hugging Face.
 - [Kaggle Contributions](#kaggle-contributions) - Here are a few of my Python notebooks I have published on Kaggle, including one detailing the hardware available on the platform. 
@@ -60,6 +61,24 @@ Here are some of my published articles on Medium, covering topics like fine-tuni
 | [Accelerating Credit Card Fraud Detection: Improving Machine Learning Performance with Intel-Optimized Software](https://medium.com/intel-analytics-software/accelerating-credit-card-fraud-detection-f136fe56b1ac) | Intel Analytics Software | Dec. 5, 2022 |
 
 *******
+## Conference Talks
+Samples of my speaking engagements at technical conferences.
+| Title and Link | Conference | Location | 
+| ----------- | ----------- | ----------- |
+| 3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East | [2024 Fourth International Meeting for Applied Geoscience & Energy](https://www.imageevent.org/) | Houston, TX | 
+| [Seismic Data to Subsurface Models with OpenFWI](https://www.youtube.com/watch?v=iuFQx6Gu3A4) | [2024 Energy HPC Conference](https://events.rice.edu/event/347481-17th-annual-energy-hpc-conference) - AI in Energy Workshop | Houston, TX |
+| [Intel Cloud Optimization Modules](https://www.oneapi.io/event-sessions/intel-cloud-optimization-modules-ai-2023/) | [2023 oneAPI DevSummit for AI](https://www.oneapi.io/events/oneapi-devsummit-for-ai-2023/) | Virtual | 
+| [Seismic Data to Subsurface Models with OpenFWI](https://www.youtube.com/watch?v=TPp_Zyco6X4) | [2023 PyTorch Conference](https://pytorch.org/blog/pytorch-conference-2023/) | San Francisco, CA |
+| [Find the Humor in Text Data: NLP with Intel & Habana*](https://www.intel.com/content/www/us/en/developer/videos/finding-the-humor-in-text-data-nlp-intel-habana.html) | [2022 Intel Innovation](https://www.intel.com/content/www/us/en/newsroom/resources/2022-intel-innovation.html#gs.9j06j5) | San Jose, CA |
+| [Combining physics and deep learning to automatically pick first breaks in the Permian Basin](https://doi.org/10.1190/segam2021-3579730.1) | [2021 First International Meeting for Applied Geoscience & Energy](https://library.seg.org/doi/10.1190/segeab.40) | Houston, TX | 
+| [Deep learning for salt body detection: A practical approach](https://eage.eventsair.com/machine-learning-houston-2020/speakers) | [2020 EAGE Machine Learning Houston](https://eage.eventsair.com/machine-learning-houston-2020/) | Houston, TX | 
+| [Deep learning for salt body detection: A practical approach](https://doi.org/10.3997/2214-4609.202010270) | [2020 EAGE 82nd Annual International Conference and Exhibition](https://eage.eventsair.com/annual-conference-online/) | Virtual | 
+| [Microseismic event or noise: Automatic classification with convolutional neural networks](https://doi.org/10.1190/segam2020-3414896.1) | 2020 SEG 90th Annual International Meeting | Houston, TX | 
+| [Deep learning for salt body detection applied to 3D Gulf of Mexico data](https://doi.org/10.1190/segam2020-3417484.1) | 2020 SEG 90th Annual International Meeting | Houston, TX | 
+| [FWI with Scaled-Sobolev Preconditioning Applied to Short-offset Vibroseis Field Data](https://doi.org/10.3997/2214-4609.201701164) | [2017 EAGE 79th Annual International Conference and Exhibition](https://www.earthdoc.org/content/proceedings/paris2017-annual) | Paris, France | 
+
+*******
+
 <!---
 ### <p align="center">Publications <br><br><a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"  target="Google Scholar"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png"  height="20"/></a></p> 
 --->
@@ -68,10 +87,10 @@ A list of my formal research publications, primarily composed of my work in deep
 
 | PDF      | Citation |
 | ----------- | ----------- |
-| - | Jin, P., Y. Feng, S. Feng, H. Wang, Y. Chen, B. Consolvo, Z. Liu, Y. Lin, 2024, Does Full Waveform Inversion Benefit from Big Data? Manuscript submitted for publication. |
+| - | Jin, P., Y. Feng, S. Feng, H. Wang, Y. Chen, B. Consolvo, Z. Liu, Y. Lin, 2024, An Empirical Study of Large-Scale Data-Driven Full Waveform Inversion, Manuscript submitted for publication. |
 | - | Consolvo, B. P., 2024, 3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East: Fourth International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists and American Association of Petroleum Geologists. |
 | [🌄[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | Consolvo, B. P., B. DeMoss, M. Duiker, 2021, <b>Combining physics and deep learning to automatically pick first breaks in the Permian Basin</b>: First International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists. doi: https://doi.org/10.1190/segam2021-3579730.1. |
-| [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, <b>Deep learning for salt body detection: A practical approach</b>: 83rd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
+| [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, <b>Deep learning for salt body detection: A practical approach</b>: 82nd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
 | [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf) | Consolvo, B. P., E. Zabihi Naeini, and P. Docherty, 2020, <b>Deep learning for salt body detection applied to 3D Gulf of Mexico data</b>: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3417484.1. |
 | [〰️[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657301/Consolvo2020_MicroseismicML.pdf) | Consolvo, B. P., and M. Thornton, 2020, <b>Microseismic event or noise: Automatic classification with convolutional neural networks</b>: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3414896.1. |
 | [🌎[PDF]](https://ir.lib.uwo.ca/etd/5199) | Consolvo, B. P., 2018, <b>Full-Waveform Inversion with Scaled-Sobolev Preconditioning Applied to Vibroseis Field Data</b>: Western University Electronic Thesis and Dissertation Repository. doi: https://ir.lib.uwo.ca/etd/5199. |
