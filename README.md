@@ -142,6 +142,7 @@ A sample of my direct contributions to the GitHub open-source community.
 
 | Activity Title & Link | Contribution Type | Description |
 | ----- | ----- | ----- | 
+| [OpenAI's Whisper for Automatic Speech Recognition on Intel](https://github.com/intel/ai-innovation-bridge/blob/master/workshops/whisper/consolvo_whisper_workshop.ipynb) | Repo | In this Jupyter Notebook, I show how to use OpenAI's powerful Whisper model for translation and transcription of English and French on an Intel CPU. | 
 | [Intel® Optimized Cloud Modules for GCP: nanoGPT Distributed Training](https://github.com/intel/intel-cloud-optimizations-gcp/tree/main/distributed-training/nlp) | Repo | A guided tour on fine-tuning nanoGPT (124M parameter) model on a cluster of CPUs on Google Cloud Platform. | 
 | [CPU Accelerated Fine-Tuning for Image Segmentation using PyTorch](https://github.com/intel/intel-extension-for-pytorch/blob/master/examples/cpu/usecase_spacenet5/20230303_consolvo_spacenet5_ipex.ipynb) | Python Notebook | Comprehensive tutorial on a deep learning (pixel segmentation) task on the official Intel Extension for PyTorch repository. An accompanying blog was posted on the [official PyTorch website here](https://pytorch.org/blog/accelerated-image-seg/). | 
 | [Remove metadata.clusterName entirely from cluster.yaml](https://github.com/GoogleCloudPlatform/kubeflow-distribution/pull/426) | Pull Request | In deploying Kubeflow on GCP, I noticed problems with the cluster.yaml file and contributed to the formal GCP implementation | 
