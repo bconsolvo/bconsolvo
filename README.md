@@ -102,12 +102,20 @@ A list of my formal research publications, primarily composed of my work in deep
 --->
 ## Hugging Face Contributions
 
-Some of the model cards I have contributed to Hugging Face.
+Some of the model cards, articles, and spaces I have contributed to Hugging Face.
 
 | Title | Contribution Type |
 | ----- | ----- | 
+| [Llava-Gemma-7b](https://huggingface.co/Intel/llava-gemma-7b) | Model Card |
+| [Llava-Gemma-2b](https://huggingface.co/Intel/llava-gemma-2b) | Model Card | 
+| [Running Large Multimodal Models on an AI PC's NPU](https://huggingface.co/blog/bconsolvo/llava-gemma-2b-aipc-npu) | Community Article | 
 | [DPT-Large](https://huggingface.co/Intel/dpt-large) | Model Card | 
 | [DPT-Hybrid](https://huggingface.co/Intel/dpt-hybrid-midas) | Model Card | 
+| [Neural-Chat-7b-v3-3-Slerp](https://huggingface.co/Intel/neural-chat-7b-v3-3-Slerp) | Model Card |
+| [Neural-Chat-7b-v3-1](https://huggingface.co/Intel/neural-chat-7b-v3-1) | Model Card | 
+| [Neural-Chat-7b-v3](https://huggingface.co/Intel/neural-chat-7b-v3) | Model Card | 
+| [Neural-Chat-7b-v3-2](https://huggingface.co/Intel/neural-chat-7b-v3-2) | Model Card |
+| [Neural-Chat-7b-v1-1](https://huggingface.co/Intel/neural-chat-7b-v1-1) | Model Card |
 | [90% Sparse BERT-Base (uncased) Prune Once For All](https://huggingface.co/Intel/bert-base-uncased-sparse-90-unstructured-pruneofa) | Model Card |
 | [90% Sparse DistilBERT-Base (uncased) Prune Once for All](https://huggingface.co/Intel/distilbert-base-uncased-sparse-90-unstructured-pruneofa) | Model Card |
 | [90% Sparse BERT-Large (uncased) Prune Once for All](https://huggingface.co/Intel/bert-large-uncased-sparse-90-unstructured-pruneofa) | Model Card |
@@ -117,7 +125,6 @@ Some of the model cards I have contributed to Hugging Face.
 | [Question & Answer with Sparse BERT using the SQuAD dataset](https://huggingface.co/spaces/Intel/qa_sparse_bert) | Space | 
 | [Dynamic-TinyBERT](https://huggingface.co/Intel/dynamic_tinybert) | Model Card | 
 | [INT8 DistilBERT base uncased finetuned SST-2](https://huggingface.co/Intel/distilbert-base-uncased-finetuned-sst-2-english-int8-static) | Model Card |
-
 
 *******
 <!--- 
