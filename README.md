@@ -87,7 +87,7 @@ A list of my formal research publications, primarily composed of my work in deep
 
 | PDF      | Citation |
 | ----------- | ----------- |
-| - | Jin, P., Y. Feng, S. Feng, H. Wang, Y. Chen, B. Consolvo, Z. Liu, Y. Lin, 2024, An Empirical Study of Large-Scale Data-Driven Full Waveform Inversion, Scientific Reports. https://arxiv.org/abs/2307.15388. |
+| [🏜 [PDF]](https://arxiv.org/pdf/2307.15388) | Jin, P., Y. Feng, S. Feng, H. Wang, Y. Chen, B. Consolvo, Z. Liu, Y. Lin, 2024, An Empirical Study of Large-Scale Data-Driven Full Waveform Inversion, Scientific Reports. https://arxiv.org/abs/2307.15388. |
 | - | Consolvo, B. P., 2024, 3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East: Fourth International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists and American Association of Petroleum Geologists. |
 | [🌄[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | Consolvo, B. P., B. DeMoss, M. Duiker, 2021, <b>Combining physics and deep learning to automatically pick first breaks in the Permian Basin</b>: First International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists. doi: https://doi.org/10.1190/segam2021-3579730.1. |
 | [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, <b>Deep learning for salt body detection: A practical approach</b>: 82nd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
