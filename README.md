@@ -162,6 +162,7 @@ A sample of my direct contributions to the GitHub open-source community.
 ## Podcasts
 | Podcast | Episode Title | Apple | Google | Spotify | Published Date | 
 | ----- | ----- | ----- | ----- | ----- | ----- |
+| Practical AI | Gaudi processors & Intel's AI portfolio | [Apple](https://podcasts.apple.com/us/podcast/gaudi-processors-intels-ai-portfolio/id1406537385?i=1000664599062) | - | [Spotify](https://open.spotify.com/episode/1QwhhhK484sXhgkyN4RuZr) | Aug. 7, 2024 |
 | Code Together | How Copilot, ChatGPT, Stable Diffusion and Generative AI Will Change How We Develop, Work and Live | [Apple](https://podcasts.apple.com/us/podcast/how-copilot-chatgpt-stable-diffusion-and-generative/id1510537499?i=1000589490841) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb25uZWN0ZWRzb2NpYWxtZWRpYS5jb20vY2hhbm5lbC9jb2RlLXRvZ2V0aGVyLw?sa=X&ved=0CAUQ9sEGahgKEwjI9cL1uuX5AhUAAAAAHQAAAAAQ7A) | [Spotify](https://open.spotify.com/episode/5gL4MohKAi5hiKwxu1yf1q?si=LeWktZCfRVeOdWLlfdREqw&nd=1) | Dec. 8, 2022 |
 
 
