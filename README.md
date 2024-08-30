@@ -7,7 +7,7 @@ Twitch <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src
 GitHub <a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a> |
 --->
 
-Hello! I am an AI Software Engineering Manager. I enjoy building cutting-edge generative AI and Large Language Model (LLM) solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links I provide to videos, code, and articles.
+Hello! I am an AI Software Engineering Manager. I enjoy building cutting-edge generative AI, Large Language Model (LLM), and computer vision solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links I provide to videos, code, and articles.
 
 *******
 ## Contributions
