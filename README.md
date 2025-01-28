@@ -7,7 +7,7 @@ Twitch <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src
 GitHub <a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a> |
 --->
 
-Hello! I am an AI Software Engineering Manager. I enjoy building cutting-edge generative AI, Large Language Model (LLM), and computer vision solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links I provide to videos, code, and articles.
+Hello! I am an AI Software Engineer. I enjoy building cutting-edge generative AI, Large Language Model (LLM), and computer vision solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links I provide to publications, videos, code, and articles.
 
 *******
 ## Contributions
@@ -83,18 +83,18 @@ Samples of my speaking engagements at technical conferences.
 ### <p align="center">Publications <br><br><a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"  target="Google Scholar"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png"  height="20"/></a></p> 
 --->
 ## Publications
-A list of my formal research publications, primarily composed of my work in deep learning and subsurface imaging.
+A list of my formal research publications.
 
 | PDF      | Citation |
 | ----------- | ----------- |
-| [🏜 [PDF]](https://www.nature.com/articles/s41598-024-68573-7.pdf) | Jin, P., Y. Feng, S. Feng, H. Wang, Y. Chen, B. Consolvo, Z. Liu, Y. Lin, 2024, <b>An Empirical Study of Large-Scale Data-Driven Full Waveform Inversion</b>, Scientific Reports 14, 20034. [https://doi.org/10.1038/s41598-024-68573-7](https://doi.org/10.1038/s41598-024-68573-7). |
-| - | Consolvo, B. P., 2024, <b>3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East</b>: Fourth International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists and American Association of Petroleum Geologists. |
-| [🌄[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | Consolvo, B. P., B. DeMoss, M. Duiker, 2021, <b>Combining physics and deep learning to automatically pick first breaks in the Permian Basin</b>: First International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists. doi: https://doi.org/10.1190/segam2021-3579730.1. |
-| [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., B. P. Consolvo, P. Docherty, and J. Uwaifo, 2020, <b>Deep learning for salt body detection: A practical approach</b>: 82nd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
-| [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf) | Consolvo, B. P., E. Zabihi Naeini, and P. Docherty, 2020, <b>Deep learning for salt body detection applied to 3D Gulf of Mexico data</b>: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3417484.1. |
-| [〰️[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657301/Consolvo2020_MicroseismicML.pdf) | Consolvo, B. P., and M. Thornton, 2020, <b>Microseismic event or noise: Automatic classification with convolutional neural networks</b>: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3414896.1. |
-| [🌎[PDF]](https://ir.lib.uwo.ca/etd/5199) | Consolvo, B. P., 2018, <b>Full-Waveform Inversion with Scaled-Sobolev Preconditioning Applied to Vibroseis Field Data</b>: Western University Electronic Thesis and Dissertation Repository. doi: https://ir.lib.uwo.ca/etd/5199. |
-| [🌎[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657305/Consolvo2017_FWIOhio.pdf)  | Consolvo, B. P., M. A. H. Zuberi, R. G. Pratt, and P. W. Cary, 2017, <b>FWI with Scaled-Sobolev Preconditioning Applied to Short-offset Vibroseis Field Data</b>: 79th Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.201701164. |
+| [🏜 [PDF]](https://github.com/user-attachments/files/18578480/consolvo-2024-3d-land-full-waveform-inversion-in-the-permian-basin-a-case-study-at-quail-ridge-east.pdf) | <b>Consolvo, B.</b>, 2024, 3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East: Fourth International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists and American Association of Petroleum Geologists. doi: https://doi.org/10.1190/image2024-4099383.1. |
+| [🏜 [PDF]](https://www.nature.com/articles/s41598-024-68573-7.pdf) | Jin, P., Y. Feng, S. Feng, H. Wang, Y. Chen, <b>B. Consolvo</b>, Z. Liu, Y. Lin, 2024, An Empirical Study of Large-Scale Data-Driven Full Waveform Inversion, Scientific Reports 14, 20034. doi: https://doi.org/10.1038/s41598-024-68573-7. |
+| [🌄[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657308/Consolvo2021_DeepLearningFirstBreaks.pdf) | <b>Consolvo, B. P.</b>, B. DeMoss, M. Duiker, 2021, Combining physics and deep learning to automatically pick first breaks in the Permian Basin: First International Meeting for Applied Geoscience & Energy, Society of Exploration Geophysicists. doi: https://doi.org/10.1190/segam2021-3579730.1. |
+| [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657307/Consolvo2020_EAGE_SaltML2.pdf)  | Zabihi Naeini, E., <b>B. P. Consolvo</b>, P. Docherty, and J. Uwaifo, 2020, Deep learning for salt body detection: A practical approach: 82nd Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.202010270. |
+| [🧂[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657249/Consolvo2020_SaltML.pdf) | <b>Consolvo, B. P.</b>, E. Zabihi Naeini, and P. Docherty, 2020, Deep learning for salt body detection applied to 3D Gulf of Mexico data: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3417484.1. |
+| [〰️[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657301/Consolvo2020_MicroseismicML.pdf) | <b>Consolvo, B. P.</b>, and M. Thornton, 2020, Microseismic event or noise: Automatic classification with convolutional neural networks: 90th Annual International Meeting, SEG, Expanded Abstracts. doi: https://doi.org/10.1190/segam2020-3414896.1. |
+| [🌎[PDF]](https://ir.lib.uwo.ca/etd/5199) | <b>Consolvo, B. P.</b>, 2018, Full-Waveform Inversion with Scaled-Sobolev Preconditioning Applied to Vibroseis Field Data: Western University Electronic Thesis and Dissertation Repository. doi: https://ir.lib.uwo.ca/etd/5199. |
+| [🌎[PDF]](https://github.com/bconsolvo/bconsolvo/files/8657305/Consolvo2017_FWIOhio.pdf)  | <b>Consolvo, B. P.</b>, M. A. H. Zuberi, R. G. Pratt, and P. W. Cary, 2017, FWI with Scaled-Sobolev Preconditioning Applied to Short-offset Vibroseis Field Data: 79th Annual International Conference and Exhibition, EAGE, Extended Abstracts. doi: https://doi.org/10.3997/2214-4609.201701164. |
 
 *******
 <!--- 
@@ -106,6 +106,7 @@ Some of the model cards, articles, and spaces I have contributed to Hugging Face
 
 | Title | Contribution Type |
 | ----- | ----- | 
+| [Fine-Tune Meta Llama 3.2-Vision-Instruct Multimodal LLM on Intel Accelerators](https://huggingface.co/blog/bconsolvo/llama3-vision-instruct-fine-tuning) | Community Article |
 | [Llava-Gemma-7b](https://huggingface.co/Intel/llava-gemma-7b) | Model Card |
 | [Llava-Gemma-2b](https://huggingface.co/Intel/llava-gemma-2b) | Model Card | 
 | [Running Large Multimodal Models on an AI PC's NPU](https://huggingface.co/blog/bconsolvo/llava-gemma-2b-aipc-npu) | Community Article | 
@@ -173,10 +174,10 @@ My journey in work has mostly been focused around AI and geophysics. For more de
 
 | Company | Role | Location | Dates | 
 | ----- | ----- | ----- | ----- |
-| Intel | AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
+| Intel | Senior AI Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
 | Zvelo | Senior AI Engineer (Computer Vision) | Spring, TX | 06/2020 - 04/2022 | 
 | Fairfield Geotechnologies | Research Data Scientist and Geophysicist (FWI) | Houston, TX | 05/2019 - 05/2020 | 
-| MicroSeismic | Python Developer, Geophysicist, Field Geophysicist | Houston, TX | 02/2018 - 04/2019 | 
+| MicroSeismic | Python Developer; Geophysicist; Field Geophysicist | Houston, TX | 02/2018 - 04/2019 | 
 | ExxonMobil | Geophysics Intern (FWI Research) | Spring, TX | 01/2017 - 06/2017 | 
 
 *******
