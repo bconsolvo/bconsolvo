@@ -14,7 +14,7 @@ Hello! I am an AI Software Engineer. I enjoy building cutting-edge generative AI
 - [YouTube and Recorded Content](#youtube-and-recorded-content) - Here are some examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
 - [Medium Articles](#medium-articles) - Here are some of my published articles on Medium, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
 - [Conference Talks](#conference-talks) - Samples of my speaking engagements at technical conferences.
-- [Publications](#publications) - A list of my formal research publications, primarily composed of my work in deep learning and subsurface imaging.
+- [Publications](#publications) - A list of my formal research publications.
 - [Hugging Face Contributions](#hugging-face-contributions) - Some of the model cards and other materials I have contributed to Hugging Face.
 - [Kaggle Contributions](#kaggle-contributions) - Here are a few of my Python notebooks I have published on Kaggle, including one detailing the hardware available on the platform. 
 - [GitHub Activity](#github-activity) - A sample of my direct contributions to the GitHub open-source community.
