@@ -11,7 +11,7 @@ Hello! I am an AI Software Engineer. I enjoy building cutting-edge generative AI
 
 *******
 ## Contributions
-- [YouTube and Recorded Content](#youtube-and-recorded-content) - Here are some examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
+- [YouTube and Recorded Video](#youtube-and-recorded-video) - Here are some examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
 - [Medium Articles](#medium-articles) - Here are some of my published articles on Medium, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
 - [Conference Talks](#conference-talks) - Samples of my speaking engagements at technical conferences.
 - [Publications](#publications) - A list of my formal research publications.
@@ -25,11 +25,13 @@ Hello! I am an AI Software Engineer. I enjoy building cutting-edge generative AI
 
 
 *******
-## YouTube and Recorded Content
-Here are some examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, Kubernetes, and Kubeflow. 
+## YouTube and Recorded Video
+Examples of my recorded technical content, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, Kubernetes, and Kubeflow. 
 
 | Video Link | Description | 
 | ----------- | ----------- |
+| [How DeepSeek Applies Reasoning to Math Problems](https://youtube.com/shorts/bucScZ9dfvk?si=4garmaUVUuIXKrX0) [![deepseekmath](https://github.com/user-attachments/assets/132805de-63d8-4604-9ac3-89f16e305ce6)](https://youtube.com/shorts/bucScZ9dfvk?si=4garmaUVUuIXKrX0) | A quick comparison of two AI models: deepseek-ai/DeepSeek-R1-Distill-Llama-8B model and meta-llama/Meta-Llama-3.1-70B-Instruct. The models are running on Intel® Gaudi® AI accelerators, hosted by Denvr Dataworks. | 
+| [How Well Does DeepSeek Reason? I Put It to the Test on My AI PC](https://www.youtube.com/shorts/cROVQuz1rWQ) [![deepseekollama](https://github.com/user-attachments/assets/2dc9bd02-e437-459f-8fcc-3744569fe71a)](https://www.youtube.com/shorts/cROVQuz1rWQ) | Running two AI Small Language Models (SLMs) models on my local AI PC with Intel Core Ultra using the Ollama framework: deepseek-ai/DeepSeek-R1-Distill-Llama-8B model and meta-llama/Llama-3.1-8B. | 
 | [How to Set Up Cloud-Based Distributed Training to Fine-Tune an LLM](https://www.intel.com/content/www/us/en/developer/videos/cloud-based-distributed-training-fine-tune-an-llm.html#gs.9sldf8) [![How to Set Up Cloud-Based Distributed Training to Fine-Tune an LLM](https://github.com/bconsolvo/bconsolvo/assets/15691316/2df2c978-17a6-4727-8e31-d1d65cb5db54)](https://www.intel.com/content/www/us/en/developer/videos/cloud-based-distributed-training-fine-tune-an-llm.html#gs.9sldf8) | Learn how to fine-tune [nanoGPT](https://huggingface.co/gpt2) (124M parameter) model on a cluster of CPUs on Google Cloud Platform. The model is trained on the [OpenWebText](https://huggingface.co/datasets/Skylion007/openwebtext) dataset in a distributed setting, using 4th Gen. Intel® Xeon® Scalable CPUs. The project builds upon the initial codebase of [nanoGPT](https://github.com/karpathy/nanoGPT), by Andrej Karpathy. The objective is to understand how to set up distributed training so that you can fine-tune to your specific objective. The end result of training here will result in a base LLM that can generate words, or tokens, but it will only be suitable for your use-case when you fine-tune it on your specific task and dataset. |
 | [Seismic Data to Subsurface Models with OpenFWI: Training an AI Model with PyTorch](https://www.youtube.com/watch?v=zvk3Rr-OjU0) [![Seismic Data to Subsurface Models with OpenFWI: Training an AI Model with PyTorch](https://github.com/bconsolvo/bconsolvo/assets/15691316/4a67d2be-0470-4324-ac8c-b89e3217088a)](https://www.youtube.com/watch?v=zvk3Rr-OjU0) | Obtaining an accurate “picture” of the subsurface is not as simple as snapping a picture on a smartphone. Seismic exploration is a key component in creating images of the subsurface and finding essential minerals in the subsurface. Building images of the subsurface is akin to ultrasound technology used to image the human body. Learn how to train a neural network with PyTorch on a CPU, going directly from seismic data to a subsurface model. |
 | [Find the Humor in Text Data: NLP with Intel & Habana*](https://www.intel.com/content/www/us/en/developer/videos/finding-the-humor-in-text-data-nlp-intel-habana.html?) [![Find the Humor in Text Data: NLP with Intel & Habana*](https://github.com/bconsolvo/bconsolvo/assets/15691316/e9661f04-f5f0-4884-976b-6c3d40167e7a)](https://www.intel.com/content/www/us/en/developer/videos/finding-the-humor-in-text-data-nlp-intel-habana.html?) | Learn how to train a binary classification natural language processing (NLP) model on a humor dataset, where each statement is labeled as humorous or not humorous. The training is performed on a powerful Intel Gaudi GPU. Also learn how to quantize a model to speed up inference by 1.8x, taking it from FP32 format to INT8 format without significant accuracy loss. |
@@ -47,6 +49,9 @@ Here are some of my published articles on Medium, covering topics like fine-tuni
 
 | Title | Medium Sub-Publication | Date | 
 | ----- | ----- | ----- | 
+| [How Well Does DeepSeek Reason? I Put It to the Test on My AI PC](https://medium.com/@benjamin.consolvo/how-well-does-deepseek-reason-90a647fa6d56) | Self-Published | Feb. 5, 2025 | 
+| [Applying DeepSeek Reasoning to Math Problems](https://medium.com/@benjamin.consolvo/applying-deepseek-reasoning-to-math-problems-f0f4b14fbf5c) | Self-Published | Feb. 5, 2025 | 
+| [Deploying Kubeflow on Intel Xeon CPUs on Google Cloud Platform](https://medium.com/@benjamin.consolvo/deploying-kubeflow-on-intel-xeon-cpus-on-google-cloud-platform-b6c3186661f7) | Self-Published | Feb. 5, 2025 | 
 | [Setting Up Cloud-Based Distributed Training to Fine-Tune LLMs: Fine-Tuning the nanoGPT Model for Language Tasks](https://medium.com/intel-analytics-software/how-to-set-up-cloud-based-distributed-training-to-fine-tune-an-llm-a232f1fd21db) | Intel Analytics Software | Mar. 29, 2024 | 
 | [Automatic Speech Recognition Using OpenAI Whisper without a GPU: Easy Step-by-Step Guide to English and French Transcription and Translation on CPUs](https://medium.com/intel-analytics-software/automatic-speech-recognition-using-openai-whisper-without-a-gpu-9d316a93860a) |  Intel Analytics Software | Mar. 13, 2024 | 
 | [GenAI Essentials: Inference with Falcon-7B and Zephyr-7B on the Intel Developer Cloud](https://medium.com/intel-analytics-software/genai-essentials-ce60412832d1) | Intel Analytics Software | Dec. 4, 2023 | 
@@ -170,12 +175,12 @@ A sample of my direct contributions to the GitHub open-source community.
 *******
 
 ## Work Experience
-My journey in work has mostly been focused around AI and geophysics. For more detail, please visit my [LinkedIn profile](https://linkedin.com/in/bconsolvo).
+My journey in work has mostly been focused around AI, cybersecurity, geophysics. For more detail, please visit my [LinkedIn profile](https://linkedin.com/in/bconsolvo).
 
 | Company | Role | Location | Dates | 
 | ----- | ----- | ----- | ----- |
-| Intel | Senior AI Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
-| Zvelo | Senior AI Engineer (Computer Vision) | Spring, TX | 06/2020 - 04/2022 | 
+| Intel | Senior AI Software Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
+| Zvelo | Senior AI Software Engineer (Computer Vision) | Spring, TX | 06/2020 - 04/2022 | 
 | Fairfield Geotechnologies | Research Data Scientist and Geophysicist (FWI) | Houston, TX | 05/2019 - 05/2020 | 
 | MicroSeismic | Python Developer; Geophysicist; Field Geophysicist | Houston, TX | 02/2018 - 04/2019 | 
 | ExxonMobil | Geophysics Intern (FWI Research) | Spring, TX | 01/2017 - 06/2017 | 
@@ -193,8 +198,6 @@ Starting from a strong foundation of mathematics, I moved into teaching and then
 
 *******
 ## Contact
-
-How to reach me.
 
 If you would like to connect with me to collaborate or to ask me questions, feel free to reach out to me over [LinkedIn](https://linkedin.com/in/bconsolvo).
 
