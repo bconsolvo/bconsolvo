@@ -7,7 +7,7 @@ Twitch <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src
 GitHub <a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a> |
 --->
 
-Hello! I am an AI Software Engineer. I enjoy building cutting-edge generative AI, Large Language Model (LLM), and computer vision solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links I provide to publications, videos, code, and articles.
+Hello! I am an AI Software Engineer. I enjoy building cutting-edge agentic AI, GenAI, LLM, and computer vision solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links I provide to publications, videos, code, and articles.
 
 *******
 ## Contributions
@@ -70,7 +70,7 @@ Here are some of my published articles on Medium, covering topics like fine-tuni
 Samples of my speaking engagements at technical conferences.
 | Title and Link | Conference | Location | 
 | ----------- | ----------- | ----------- |
-| 3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East | [2024 Fourth International Meeting for Applied Geoscience & Energy](https://www.imageevent.org/) | Houston, TX | 
+| [3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East](https://doi.org/10.1190/image2024-4099383.1) | [2024 Fourth International Meeting for Applied Geoscience & Energy](https://www.imageevent.org/) | Houston, TX | 
 | [Seismic Data to Subsurface Models with OpenFWI](https://www.youtube.com/watch?v=iuFQx6Gu3A4) | [2024 Energy HPC Conference](https://events.rice.edu/event/347481-17th-annual-energy-hpc-conference) - AI in Energy Workshop | Houston, TX |
 | [Intel Cloud Optimization Modules](https://www.oneapi.io/event-sessions/intel-cloud-optimization-modules-ai-2023/) | [2023 oneAPI DevSummit for AI](https://www.oneapi.io/events/oneapi-devsummit-for-ai-2023/) | Virtual | 
 | [Seismic Data to Subsurface Models with OpenFWI](https://www.youtube.com/watch?v=TPp_Zyco6X4) | [2023 PyTorch Conference](https://pytorch.org/blog/pytorch-conference-2023/) | San Francisco, CA |
