@@ -11,13 +11,13 @@ Hello! I am an AI Software Engineer. I enjoy building cutting-edge agentic AI, G
 
 *******
 ## Contributions
-- [YouTube and Recorded Video](#youtube-and-recorded-video) - Here are some examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
-- [Medium Articles](#medium-articles) - Here are some of my published articles on Medium, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
+- [YouTube and Recorded Video](#youtube-and-recorded-video) - Examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
+- [Medium and Dev.To Articles](#medium-and-devto-articles) - Published articles, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
 - [Conference Talks](#conference-talks) - Samples of my speaking engagements at technical conferences.
-- [Publications](#publications) - A list of my formal research publications.
-- [Hugging Face Contributions](#hugging-face-contributions) - Some of the model cards and other materials I have contributed to Hugging Face.
+- [Publications](#publications) - Formal research publications.
+- [Hugging Face Contributions](#hugging-face-contributions) - Spaces, model cards and other materials I have contributed to Hugging Face.
 - [Kaggle Contributions](#kaggle-contributions) - Here are a few of my Python notebooks I have published on Kaggle, including one detailing the hardware available on the platform. 
-- [GitHub Activity](#github-activity) - A sample of my direct contributions to the GitHub open-source community.
+- [GitHub Activity](#github-activity) - Sample of my direct contributions to the GitHub open-source community.
 - [Podcasts](#podcasts) - Podcasts where I was a guest speaker.
 - [Work Experience](#work-experience) - My journey in work has mostly been focused around AI and geophysics. 
 - [Education](#education) - Starting from a strong foundation of mathematics, I moved into teaching and then a [thesis-based](https://ir.lib.uwo.ca/etd/5199) geophysics degree.
@@ -44,11 +44,13 @@ Examples of my recorded technical content, covering topics like distributed fine
 <!--- 
 ### <p align="center"><a href="https://medium.com/@benjamin.consolvo"  target="Medium"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg"  height="20"/></a></p>
 --->
-## Medium Articles
-Here are some of my published articles on Medium, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
+## Medium and DevTo Articles
+Here are some of my published articles, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
 
-| Title | Medium Sub-Publication | Date | 
+| Title | Sub-Publication | Date | 
 | ----- | ----- | ----- | 
+| [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://medium.com/intel-tech/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-cad452f20be5) | Intel Tech | May 28, 2025 | 
+| [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://dev.to/bconsolvo/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-1ddm)| Self-Published | May 28, 2025 | 
 | [How Well Does DeepSeek Reason? I Put It to the Test on My AI PC](https://medium.com/@benjamin.consolvo/how-well-does-deepseek-reason-90a647fa6d56) | Self-Published | Feb. 5, 2025 | 
 | [Applying DeepSeek Reasoning to Math Problems](https://medium.com/@benjamin.consolvo/applying-deepseek-reasoning-to-math-problems-f0f4b14fbf5c) | Self-Published | Feb. 5, 2025 | 
 | [Deploying Kubeflow on Intel Xeon CPUs on Google Cloud Platform](https://medium.com/@benjamin.consolvo/deploying-kubeflow-on-intel-xeon-cpus-on-google-cloud-platform-b6c3186661f7) | Self-Published | Feb. 5, 2025 | 
@@ -111,6 +113,10 @@ Some of the model cards, articles, and spaces I have contributed to Hugging Face
 
 | Title | Contribution Type |
 | ----- | ----- | 
+| [Intel AI for Enterprise Inference - LLM Chatbot](https://huggingface.co/spaces/Intel/intel-ai-enterprise-inference) | Space | 
+| [Stock Trader](https://huggingface.co/spaces/Intel/stocktrader) | Space |
+| [VacAIgent](https://huggingface.co/spaces/Intel/vacaigent) | Space | 
+| [Preventative Healthcare](https://huggingface.co/spaces/Intel/preventative_healthcare) | Space | 
 | [Fine-Tune Meta Llama 3.2-Vision-Instruct Multimodal LLM on Intel Accelerators](https://huggingface.co/blog/bconsolvo/llama3-vision-instruct-fine-tuning) | Community Article |
 | [Llava-Gemma-7b](https://huggingface.co/Intel/llava-gemma-7b) | Model Card |
 | [Llava-Gemma-2b](https://huggingface.co/Intel/llava-gemma-2b) | Model Card | 
@@ -179,7 +185,7 @@ My journey in work has mostly been focused around AI, cybersecurity, geophysics.
 
 | Company | Role | Location | Dates | 
 | ----- | ----- | ----- | ----- |
-| Intel | Senior AI Software Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
+| Intel | Staff AI Software Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
 | Zvelo | Senior AI Software Engineer (Computer Vision) | Spring, TX | 06/2020 - 04/2022 | 
 | Fairfield Geotechnologies | Research Data Scientist and Geophysicist (FWI) | Houston, TX | 05/2019 - 05/2020 | 
 | MicroSeismic | Python Developer; Geophysicist; Field Geophysicist | Houston, TX | 02/2018 - 04/2019 | 
