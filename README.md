@@ -7,14 +7,14 @@ Twitch <a href="https://www.twitch.tv/silvosjehoaddah" target="Twitch"> <img src
 GitHub <a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a> |
 --->
 
-Hello! I am an AI Software Engineer. I enjoy building cutting-edge agentic AI, GenAI, LLM, and computer vision solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links I provide to publications, videos, code, and articles.
+Hello! I am an AI Engineer. I enjoy building cutting-edge agentic AI, GenAI, LLM, and computer vision solutions across multiple industries. I have experience in AI code development, cybersecurity, and the energy industry. You can find samples of my work here through the links provided to publications, videos, code, and articles.
 
 *******
 ## Contributions
-- [YouTube and Webinars](#youtube-and-recorded-video) - Examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
-- [Medium and Dev.To Articles](#medium-and-devto-articles) - Published articles, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
+- [Videos](#videos) - Examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
+- [Articles](#articles) - Published articles, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
 - [Conference Talks](#conference-talks) - Samples of my speaking engagements at technical conferences.
-- [Publications](#publications) - Formal research publications.
+- [Formal Publications](#formal-publications) - Formal research publications.
 - [Hugging Face Contributions](#hugging-face-contributions) - Spaces, model cards and other materials I have contributed to Hugging Face.
 - [Kaggle Contributions](#kaggle-contributions) - Here are a few of my Python notebooks I have published on Kaggle, including one detailing the hardware available on the platform. 
 - [GitHub Activity](#github-activity) - Sample of my direct contributions to the GitHub open-source community.
@@ -25,11 +25,12 @@ Hello! I am an AI Software Engineer. I enjoy building cutting-edge agentic AI, G
 
 
 *******
-## YouTube and Recorded Video
+## Videos
 Examples of my recorded technical content, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, Kubernetes, and Kubeflow. 
 
 | Link | Description | 
 | ----------- | ----------- |
+| [Build an LLM-Powered Chatbot with Streamlit and Hugging Face](https://www.intel.com/content/www/us/en/developer/videos/llm-chatbot-with-streamlit-and-hugging-face.html#gs.nmhwrx) [![llmchatbot](https://github.com/user-attachments/assets/0ef85a2d-cc6f-4605-8681-d7e5b3838df4)](https://www.intel.com/content/www/us/en/developer/videos/llm-chatbot-with-streamlit-and-hugging-face.html#gs.nmhtse)| Construct a chatbot with a Streamlit* front end using the power of LLMs. Connect your OpenAI*-compatible API and model endpoint to Hugging Face*. In this demonstration, the model inference endpoints are hosted on Intel® Gaudi® accelerators and deployed on Denvr Dataworks* cloud servers. |
 | [CNCF On demand webinar: Building Cloud Native Agentic Workflows in Healthcare with AutoGen](https://youtu.be/F38MNP9O2Rs?si=A31j7N9iPrJfh17M) [![agentsautogen](https://github.com/user-attachments/assets/bc9becb7-0524-44be-828c-8f21068eb3b9)](https://youtu.be/F38MNP9O2Rs?si=A31j7N9iPrJfh17M) | This session explores the integration of AI agents into preventative healthcare with AutoGen, an open-source agentic AI framework. The solution employs a multi-agent system connected to open-source LLMs such as Llama-3.3-70B-Instruct and DeepSeek-R1-Distill-Llama-70B. | 
 | [Generating Code for a Stock Trading Application with DeepSeek*](https://www.intel.com/content/www/us/en/developer/videos/code-for-stock-trading-application-with-deepseek.html#gs.mgd8nk) [![stocktrading](https://github.com/user-attachments/assets/dc0a0786-db5f-47a2-954d-f644c0581948)](https://www.intel.com/content/www/us/en/developer/videos/code-for-stock-trading-application-with-deepseek.html#gs.mgd8nk) | Learn how to leverage DeepSeek* to generate an initial stock trading application. Model inference endpoints are hosted on Intel® Gaudi® AI Accelerators and deployed on Denvr Dataworks cloud servers. The deployment is simplified with an OpenAI-compatible API key.| 
 | [How DeepSeek Applies Reasoning to Math Problems](https://youtube.com/shorts/bucScZ9dfvk?si=4garmaUVUuIXKrX0) [![deepseekmath](https://github.com/user-attachments/assets/132805de-63d8-4604-9ac3-89f16e305ce6)](https://youtube.com/shorts/bucScZ9dfvk?si=4garmaUVUuIXKrX0) | A quick comparison of two AI models: deepseek-ai/DeepSeek-R1-Distill-Llama-8B model and meta-llama/Meta-Llama-3.1-70B-Instruct. The models are running on Intel® Gaudi® AI accelerators, hosted by Denvr Dataworks. | 
@@ -46,7 +47,7 @@ Examples of my recorded technical content, covering topics like distributed fine
 <!--- 
 ### <p align="center"><a href="https://medium.com/@benjamin.consolvo"  target="Medium"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg"  height="20"/></a></p>
 --->
-## Medium and DevTo Articles
+## Articles
 Here are some of my published articles, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
 
 | Title | Sub-Publication | Date | 
@@ -91,7 +92,7 @@ Samples of my speaking engagements at technical conferences.
 <!---
 ### <p align="center">Publications <br><br><a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"  target="Google Scholar"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png"  height="20"/></a></p> 
 --->
-## Publications
+## Formal Publications
 A list of my formal research publications.
 
 | PDF      | Citation |
@@ -159,7 +160,7 @@ Here are a few of my Python notebooks I have published on Kaggle, including one 
 ### <p align="center"><a href="https://www.github.com/bconsolvo" target="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="20"/></a></p>
 --->
 
-A sample of my direct contributions to the GitHub open-source community.
+A sample of my direct contributions to GitHub.
 
 | Activity Title & Link | Contribution Type | Description |
 | ----- | ----- | ----- | 
@@ -187,7 +188,7 @@ My journey in work has mostly been focused around AI, cybersecurity, geophysics.
 
 | Company | Role | Location | Dates | 
 | ----- | ----- | ----- | ----- |
-| Intel | Staff AI Software Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
+| Intel | Senior Staff AI Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
 | Zvelo | Senior AI Software Engineer (Computer Vision) | Spring, TX | 06/2020 - 04/2022 | 
 | Fairfield Geotechnologies | Research Data Scientist and Geophysicist (FWI) | Houston, TX | 05/2019 - 05/2020 | 
 | MicroSeismic | Python Developer; Geophysicist; Field Geophysicist | Houston, TX | 02/2018 - 04/2019 | 
