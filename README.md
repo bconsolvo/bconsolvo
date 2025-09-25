@@ -55,31 +55,34 @@ Examples of my recorded technical content, covering topics like distributed fine
 ## Articles
 Here are some of my published articles, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
 
-| Title | Sub-Publication | LinkedIn post | X post |Date | 
+| Title | Publication | LinkedIn post | X post |Date | 
 | ----- | ----- | ----- | ----- | ----- | 
-| [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://medium.com/intel-tech/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-cad452f20be5) | Intel Tech | | | May 28, 2025 | 
-| [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://dev.to/bconsolvo/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-1ddm)| Self-Published | | | May 28, 2025 | 
-| [How Well Does DeepSeek Reason? I Put It to the Test on My AI PC](https://medium.com/@benjamin.consolvo/how-well-does-deepseek-reason-90a647fa6d56) | Self-Published | | |  Feb. 5, 2025 | 
-| [Applying DeepSeek Reasoning to Math Problems](https://medium.com/@benjamin.consolvo/applying-deepseek-reasoning-to-math-problems-f0f4b14fbf5c) | Self-Published | | |  Feb. 5, 2025 | 
-| [Deploying Kubeflow on Intel Xeon CPUs on Google Cloud Platform](https://medium.com/@benjamin.consolvo/deploying-kubeflow-on-intel-xeon-cpus-on-google-cloud-platform-b6c3186661f7) | Self-Published | | |  Feb. 5, 2025 | 
-| [Setting Up Cloud-Based Distributed Training to Fine-Tune LLMs: Fine-Tuning the nanoGPT Model for Language Tasks](https://medium.com/intel-analytics-software/how-to-set-up-cloud-based-distributed-training-to-fine-tune-an-llm-a232f1fd21db) | Intel Analytics Software | | |  Mar. 29, 2024 | 
-| [Automatic Speech Recognition Using OpenAI Whisper without a GPU: Easy Step-by-Step Guide to English and French Transcription and Translation on CPUs](https://medium.com/intel-analytics-software/automatic-speech-recognition-using-openai-whisper-without-a-gpu-9d316a93860a) |  Intel Analytics Software | | |  Mar. 13, 2024 | 
-| [GenAI Essentials: Inference with Falcon-7B and Zephyr-7B on the Intel Developer Cloud](https://medium.com/intel-analytics-software/genai-essentials-ce60412832d1) | Intel Analytics Software | | | Dec. 4, 2023 | 
-| [GenAI Essentials (Part 1): Large Language Models with Camel 5B and Open LLaMa 3B v2](https://medium.com/intel-analytics-software/genai-playground-llms-with-camel-5b-and-open-llama-3b-v2-on-the-latest-intel-gpu-868f84486f88) | Intel Analytics Software | | [@Intel](https://x.com/intel/status/1725212146315726976) | Oct. 15, 2023 | 
-| [GenAI Essentials (Part 2): Text-to-Image Stable Diffusion with Stability AI and CompVis on the Latest Intel GPU](https://medium.com/intel-analytics-software/genai-playground-text-to-image-stable-diffusion-with-stability-ais-v2-1-sdxl-1-0-ddae835aa356) | Intel Analytics Software | | [@Intel](https://x.com/intel/status/1725212146315726976) | Oct. 15, 2023 | 
-| [GenAI Essentials (Part 3): Image-to-Image Stable Diffusion With Runway ML’s v1–5 and Stability AI’s v2–1 on the Latest Intel GPU](https://medium.com/better-programming/genai-playground-image-to-image-stable-diffusion-with-runway-mls-v1-5-and-stability-ai-s-v2-1-on-a6342ec0d591) | Better Programming | | [@Intel](https://x.com/intel/status/1725212146315726976) | Oct. 15, 2023 | 
-| [Seismic Data to Subsurface Models with OpenFWI: Training an AI Model on the Latest Intel Xeon CPU with PyTorch 2.0](https://medium.com/better-programming/seismic-data-to-subsurface-models-with-openfwi-bcca0218b4e8) | Better Programming | | | Jun. 30, 2023 | 
-| [Accelerated Image Segmentation Using PyTorch: Using Intel Extension for PyTorch to Boost Image Processing Performance](https://medium.com/intel-analytics-software/accelerated-image-segmentation-using-pytorch-9aaba6c36737) | Intel Analytics Software | | | Mar. 22, 2023 |
-| [Dynamic-TinyBERT: Experiments on SQuAD1.1 Q&A Data](https://medium.com/@benjamin.consolvo/dynamic-tinybert-3aeae5de5dca) | Self-Published | | | Mar. 20, 2023 | 
-| [Quantizing a DistilBERT Humor NLP Model: Going from FP32 to INT8 for Faster Inference with Optimum Intel and Intel Neural Compressor](https://medium.com/intel-analytics-software/quantizing-a-distilbert-humor-nlp-model-c638058bb7d) | Intel Analytics Software | | | Dec. 12, 2022 | 
-| [Training an NLP Humor Model Using Habana Gaudi HPUs: Exploratory Data Analysis, Text Tokenization, and Model Training](https://medium.com/p/496a75e57680) | Intel Analytics Software | | | Dec. 9, 2022 |
-| [Accelerating Credit Card Fraud Detection: Improving Machine Learning Performance with Intel-Optimized Software](https://medium.com/intel-analytics-software/accelerating-credit-card-fraud-detection-f136fe56b1ac) | Intel Analytics Software | | | Dec. 5, 2022 |
+| [Powering Agentic AI with CPUs: LangChain, MCP, and vLLM on Google Cloud](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Powering-Agentic-AI-with-CPUs-LangChain-MCP-and-vLLM-on-Google/post/1718907) | Intel Community Blogs | | | Sep. 24, 2025 |
+| [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://medium.com/intel-tech/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-cad452f20be5) | Medium - Intel Tech | | | May 28, 2025 | 
+| [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://dev.to/bconsolvo/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-1ddm)| Dev.To - Self-Published | | | May 28, 2025 | 
+| [How Well Does DeepSeek Reason? I Put It to the Test on My AI PC](https://medium.com/@benjamin.consolvo/how-well-does-deepseek-reason-90a647fa6d56) | Medium - Self-Published | | |  Feb. 5, 2025 | 
+| [Applying DeepSeek Reasoning to Math Problems](https://medium.com/@benjamin.consolvo/applying-deepseek-reasoning-to-math-problems-f0f4b14fbf5c) | Medium - Self-Published | | |  Feb. 5, 2025 | 
+| [Deploying Kubeflow on Intel Xeon CPUs on Google Cloud Platform](https://medium.com/@benjamin.consolvo/deploying-kubeflow-on-intel-xeon-cpus-on-google-cloud-platform-b6c3186661f7) | Medium - Self-Published | | |  Feb. 5, 2025 | 
+| [Setting Up Cloud-Based Distributed Training to Fine-Tune LLMs: Fine-Tuning the nanoGPT Model for Language Tasks](https://medium.com/intel-analytics-software/how-to-set-up-cloud-based-distributed-training-to-fine-tune-an-llm-a232f1fd21db) | Medium - Intel Analytics Software | | |  Mar. 29, 2024 | 
+| [Automatic Speech Recognition Using OpenAI Whisper without a GPU: Easy Step-by-Step Guide to English and French Transcription and Translation on CPUs](https://medium.com/intel-analytics-software/automatic-speech-recognition-using-openai-whisper-without-a-gpu-9d316a93860a) |  Medium - Intel Analytics Software | | |  Mar. 13, 2024 | 
+| [GenAI Essentials: Inference with Falcon-7B and Zephyr-7B on the Intel Developer Cloud](https://medium.com/intel-analytics-software/genai-essentials-ce60412832d1) | Medium - Intel Analytics Software | | | Dec. 4, 2023 | 
+| [GenAI Essentials (Part 1): Large Language Models with Camel 5B and Open LLaMa 3B v2](https://medium.com/intel-analytics-software/genai-playground-llms-with-camel-5b-and-open-llama-3b-v2-on-the-latest-intel-gpu-868f84486f88) | Medium - Intel Analytics Software | | [@Intel](https://x.com/intel/status/1725212146315726976) | Oct. 15, 2023 | 
+| [GenAI Essentials (Part 2): Text-to-Image Stable Diffusion with Stability AI and CompVis on the Latest Intel GPU](https://medium.com/intel-analytics-software/genai-playground-text-to-image-stable-diffusion-with-stability-ais-v2-1-sdxl-1-0-ddae835aa356) | Medium - Intel Analytics Software | | [@Intel](https://x.com/intel/status/1725212146315726976) | Oct. 15, 2023 | 
+| [GenAI Essentials (Part 3): Image-to-Image Stable Diffusion With Runway ML’s v1–5 and Stability AI’s v2–1 on the Latest Intel GPU](https://medium.com/better-programming/genai-playground-image-to-image-stable-diffusion-with-runway-mls-v1-5-and-stability-ai-s-v2-1-on-a6342ec0d591) | Medium - Better Programming | | [@Intel](https://x.com/intel/status/1725212146315726976) | Oct. 15, 2023 | 
+| [Seismic Data to Subsurface Models with OpenFWI: Training an AI Model on the Latest Intel Xeon CPU with PyTorch 2.0](https://medium.com/better-programming/seismic-data-to-subsurface-models-with-openfwi-bcca0218b4e8) | Medium - Better Programming | | | Jun. 30, 2023 | 
+| [Accelerated Image Segmentation Using PyTorch: Using Intel Extension for PyTorch to Boost Image Processing Performance](https://medium.com/intel-analytics-software/accelerated-image-segmentation-using-pytorch-9aaba6c36737) | Medium - Intel Analytics Software | | | Mar. 22, 2023 |
+| [Dynamic-TinyBERT: Experiments on SQuAD1.1 Q&A Data](https://medium.com/@benjamin.consolvo/dynamic-tinybert-3aeae5de5dca) | Medium - Self-Published | | | Mar. 20, 2023 | 
+| [Quantizing a DistilBERT Humor NLP Model: Going from FP32 to INT8 for Faster Inference with Optimum Intel and Intel Neural Compressor](https://medium.com/intel-analytics-software/quantizing-a-distilbert-humor-nlp-model-c638058bb7d) | Medium - Intel Analytics Software | | | Dec. 12, 2022 | 
+| [Training an NLP Humor Model Using Habana Gaudi HPUs: Exploratory Data Analysis, Text Tokenization, and Model Training](https://medium.com/p/496a75e57680) | Medium - Intel Analytics Software | | | Dec. 9, 2022 |
+| [Accelerating Credit Card Fraud Detection: Improving Machine Learning Performance with Intel-Optimized Software](https://medium.com/intel-analytics-software/accelerating-credit-card-fraud-detection-f136fe56b1ac) | Medium - Intel Analytics Software | | | Dec. 5, 2022 |
 
 *******
 ## Conference Talks
 Samples of my speaking engagements at technical conferences.
 | Title and Link | Conference | Location | 
 | ----------- | ----------- | ----------- |
+| [Building Cloud Native Agentic Workflows on Kubernetes for Preventative Healthcare](https://kccncna2025.sched.com/event/27Fcx/building-cloud-native-agentic-workflows-on-kubernetes-for-preventative-healthcare-benjamin-consolvo-amd-daron-yondem-aws) | [2025 KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Atlanta, GA |
+| [Automatic Speech Recognition Using OpenAI Whisper Without a GPU](https://pytorchconference.sched.com/event/28nTH/poster-presentations-applied-ai)| [2025 PyTorch Conference](https://events.linuxfoundation.org/pytorch-conference/) | San Francisco, CA |
 | [3D land full-waveform inversion in the Permian Basin: A case study at Quail Ridge East](https://doi.org/10.1190/image2024-4099383.1) | [2024 Fourth International Meeting for Applied Geoscience & Energy](https://www.imageevent.org/) | Houston, TX | 
 | [Seismic Data to Subsurface Models with OpenFWI](https://www.youtube.com/watch?v=iuFQx6Gu3A4) | [2024 Energy HPC Conference](https://events.rice.edu/event/347481-17th-annual-energy-hpc-conference) - AI in Energy Workshop | Houston, TX |
 | [Intel Cloud Optimization Modules](https://www.oneapi.io/event-sessions/intel-cloud-optimization-modules-ai-2023/) | [2023 oneAPI DevSummit for AI](https://www.oneapi.io/events/oneapi-devsummit-for-ai-2023/) | Virtual | 
@@ -193,7 +196,8 @@ My journey in work has mostly been focused around AI, cybersecurity, geophysics.
 
 | Company | Role | Location | Dates | 
 | ----- | ----- | ----- | ----- |
-| Intel | Senior Staff AI Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - Present | 
+| AMD | SMTS AI Engineer | Conroe, TX | 09/2025 - Present | 
+| Intel | Senior Staff AI Engineer; AI Engineering Manager | Conroe, TX | 04/2022 - 09/2025 | 
 | Zvelo | Senior AI Software Engineer (Computer Vision) | Spring, TX | 06/2020 - 04/2022 | 
 | Fairfield Geotechnologies | Research Data Scientist and Geophysicist (FWI) | Houston, TX | 05/2019 - 05/2020 | 
 | MicroSeismic | Python Developer; Geophysicist; Field Geophysicist | Houston, TX | 02/2018 - 04/2019 | 
