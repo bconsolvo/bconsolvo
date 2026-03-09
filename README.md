@@ -1,4 +1,4 @@
-## About Me
+<img width="510" height="28" alt="image" src="https://github.com/user-attachments/assets/62582221-748b-4a8f-9c21-6117e4835ce9" />## About Me
 ### <p align="center"><a href="https://www.linkedin.com/in/bconsolvo/" target="LinkedIn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20"/></a> | <a href="https://medium.com/@benjamin.consolvo" target="Medium"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" height="20"/></a> | <a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a> | <a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a> |   <a href="https://www.reddit.com/user/bconsolvo" target="Reddit"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Reddit_Logo_Icon.svg" height="20"/></a> | <a href="https://stackoverflow.com/users/12363294/bconsolvo" target="Stack Overflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" height="20"/></a> |   <a href="https://twitter.com/bpconsolvo" target="Twitter"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="20"/></a> |   <a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"  target="Google Scholar"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png"  height="20"/></a></p> 
 
 <!--- 
@@ -125,6 +125,18 @@ Some of the model cards, articles, and spaces I have contributed to Hugging Face
 
 | Title | Contribution Type |
 | ----- | ----- | 
+| [Stable Diffusion 1.5 on AMD AI PC NPU](https://huggingface.co/amd/stable-diffusion-1.5-amdnpu) | Model Card | 
+| [SD-Turbo on AMD NPU](https://huggingface.co/amd/sd-turbo-amdnpu) | Model Card | 
+| [SDXL-Turbo on AMD NPU](https://huggingface.co/amd/sdxl-turbo-amdnpu) | Model Card | 
+| [SDXL-Base on AMD NPU](https://huggingface.co/amd/sdxl-base-amdnpu) | Model card | 
+| [Segmind-Vega on AMD NPU](https://huggingface.co/amd/segmind-vega-amdnpu) | Model Card | 
+| [Stable Diffusion 3 Medium on AMD NPU](https://huggingface.co/amd/stable-diffusion-3-medium-amdnpu) | Model Card | 
+| [Stable Diffusion 3.5 Medium on AMD NPU](https://huggingface.co/amd/stable-diffusion-3.5-medium-amdnpu) | Model Card | 
+| [SESR-M7 on AMD AI PC NPU](https://huggingface.co/amd/sesr-m7-256x256-tiles-amdnpu) | Model Card | 
+| [Real-ESRGAN 128x128 for 4x Single Image Super-Resolution on AMD AI PC NPU](https://huggingface.co/amd/realesrgan-128x128-tiles-amdnpu) | Model Card | 
+| [Real-ESRGAN 256x256 for 4x Single Image Super-Resolution on AMD AI PC NPU](https://huggingface.co/amd/realesrgan-256x256-tiles-amdnpu) | Model Card | 
+| [Real-ESRGAN 512x512 for 4x Single Image Super-Resolution on AMD AI PC NPU](https://huggingface.co/amd/realesrgan-512x512-tiles-amdnpu) | Model Card | 
+| [Real-ESRGAN 1024x1024 for 4x Single Image Super-Resolution on AMD AI PC NPU](https://huggingface.co/amd/realesrgan-1024x1024-tiles-amdnpu) | Model Card | 
 | [Intel AI for Enterprise Inference - LLM Chatbot](https://huggingface.co/spaces/Intel/intel-ai-enterprise-inference) | Space | 
 | [Stock Trader](https://huggingface.co/spaces/Intel/stocktrader) | Space |
 | [VacAIgent](https://huggingface.co/spaces/Intel/vacaigent) | Space | 
