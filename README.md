@@ -62,6 +62,7 @@ Here are some of my published articles, covering topics like fine-tuning LLMs, a
 
 | Title | Publication | LinkedIn post | X post |Date | 
 | ----- | ----- | ----- | ----- | ----- | 
+| [Upscale Everything: Super-Resolution Across AMD Hardware](https://www.amd.com/en/developer/resources/technical-articles/2026/upscale-everything-super-resolution-across-amd-hardware-.html) | AMD Technical Articles & Blogs | | | June 11, 2026 | 
 | [Powering Agentic AI with CPUs: LangChain, MCP, and vLLM on Google Cloud](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Powering-Agentic-AI-with-CPUs-LangChain-MCP-and-vLLM-on-Google/post/1718907) | Intel Community Blogs | | | Sep. 24, 2025 |
 | [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://medium.com/intel-tech/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-cad452f20be5) | Medium - Intel Tech | | | May 28, 2025 | 
 | [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://dev.to/bconsolvo/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-1ddm)| Dev.To - Self-Published | | | May 28, 2025 | 
