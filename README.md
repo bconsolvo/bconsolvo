@@ -1,5 +1,14 @@
 ## About Me
-### <p align="center"><a href="https://www.linkedin.com/in/bconsolvo/" target="LinkedIn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20"/></a> | <a href="https://medium.com/@benjamin.consolvo" target="Medium"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" height="20"/></a> | <a href="https://huggingface.co/bconsolvo" target=""> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="20"/></a> | <a href="https://www.kaggle.com/bconsolvo" target="Kaggle"> <img src="https://www.kaggle.com/static/images/site-logo.svg" height="20"/></a> |   <a href="https://www.reddit.com/user/bconsolvo" target="Reddit"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Reddit_Logo_Icon.svg" height="20"/></a> | <a href="https://stackoverflow.com/users/12363294/bconsolvo" target="Stack Overflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" height="20"/></a> |   <a href="https://twitter.com/bpconsolvo" target="Twitter"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="20"/></a> |   <a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"  target="Google Scholar"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png"  height="20"/></a></p> 
+<p align="center">
+<a href="https://www.linkedin.com/in/bconsolvo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@benjamin.consolvo"><img src="https://img.shields.io/badge/Medium-00AB6C?logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://huggingface.co/bconsolvo"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+<a href="https://www.kaggle.com/bconsolvo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://www.reddit.com/user/bconsolvo"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/></a>
+<a href="https://stackoverflow.com/users/12363294/bconsolvo"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://twitter.com/bpconsolvo"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"/></a>
+<a href="https://scholar.google.com/citations?hl=en&user=1GJmQsYAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+</p>
 
 <!--- 
 Quora <a href="https://www.quora.com/profile/Benjamin-Consolvo" target="Quora"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" height="20"/></a> | 
@@ -11,16 +20,16 @@ Hello! I am an AI Engineer. I enjoy building cutting-edge agentic AI, GenAI, LLM
 
 *******
 ## Contributions
-- [Videos](#videos) - Examples of my recorded technical talks, covering topics like distributed fine-tuning of LLMs in the cloud, using neural networks and PyTorch for computer vision tasks, and Kubeflow pipelines.
-- [Articles](#articles) - Published articles, covering topics like fine-tuning LLMs, automatic speech recognition (ASR), stable diffusion, quantization, computer vision, and PyTorch.
-- [Conference Talks](#conference-talks) - Samples of my speaking engagements at technical conferences.
-- [Formal Publications](#formal-publications) - Formal research publications.
-- [Hugging Face Contributions](#hugging-face-contributions) - Spaces, model cards and other materials I have contributed to Hugging Face.
-- [Kaggle Contributions](#kaggle-contributions) - Here are a few of my Python notebooks I have published on Kaggle, including one detailing the hardware available on the platform. 
-- [GitHub Activity](#github-activity) - Sample of my direct contributions to the GitHub open-source community.
-- [Podcasts](#podcasts) - Podcasts where I was a guest speaker.
-- [Work Experience](#work-experience) - My journey in work has mostly been focused around AI and geophysics. 
-- [Education](#education) - Starting from a strong foundation of mathematics, I moved into teaching and then a [thesis-based](https://ir.lib.uwo.ca/etd/5199) geophysics degree.
+- [Videos](#videos) - Technical talks on agentic AI, LLMs, AMD hardware, and computer vision.
+- [Articles](#articles) - Published guides on agentic AI, LLMs, stable diffusion, and quantization.
+- [Conference Talks](#conference-talks) - Talks at KubeCon, PyTorch Conference, and geophysics conferences.
+- [Formal Publications](#formal-publications) - Peer-reviewed research in full-waveform inversion and deep learning.
+- [Hugging Face Contributions](#hugging-face-contributions) - AMD NPU model cards, a collection, spaces, and articles.
+- [Kaggle Contributions](#kaggle-contributions) - Python notebooks on NLP, deep learning, and platform hardware.
+- [GitHub Activity](#github-activity) - Lead engineer on AMD Playbooks; Intel and PyTorch contributions.
+- [Podcasts](#podcasts) - Guest on Practical AI and Code Together.
+- [Work Experience](#work-experience) - AI engineering at AMD and Intel; geophysics research background.
+- [Education](#education) - Degrees in geophysics, education, and mathematics.
 - [Contact](#contact) - How to reach me.
 
 
@@ -30,8 +39,8 @@ Examples of my recorded technical content, covering topics like distributed fine
 
 | Link | Description | Views | 
 | ----------- | ----------- | - | 
-| All Videos Views | Views across all YouTube content | 1,439,382 |
-| [Ask the Experts Session #6: Inside AMD AI Playbooks](https://youtu.be/LXkF3AzqwqQ?t=3s) [![askexperts6](https://img.youtube.com/vi/LXkF3AzqwqQ/maxresdefault.jpg)](https://youtu.be/LXkF3AzqwqQ?t=3s) | AMD AI Playbooks provide step-by-step guidance for building AI applications on AMD hardware. This session covers the full playbook portfolio, a live walkthrough of one workflow, our nightly regression testing strategy, AI experiences optimized for AMD Ryzen™ AI Max+ and upcoming plans for broader support. | 370 |
+| All Videos Views | Views across all YouTube content | 1,439,384 |
+| [Ask the Experts Session #6: Inside AMD AI Playbooks](https://youtu.be/LXkF3AzqwqQ?t=3s) [![askexperts6](https://img.youtube.com/vi/LXkF3AzqwqQ/maxresdefault.jpg)](https://youtu.be/LXkF3AzqwqQ?t=3s) | AMD AI Playbooks provide step-by-step guidance for building AI applications on AMD hardware. This session covers the full playbook portfolio, a live walkthrough of one workflow, our nightly regression testing strategy, AI experiences optimized for AMD Ryzen™ AI Max+ and upcoming plans for broader support. | 372 |
 | [Building Cloud Native Agentic Workflows on Kubernetes for Preventative Healthcare - Benjamin Consolvo & Daron Yöndem](https://youtu.be/HYgxGUrdtik?si=Tq0cIwwLMTQ_AoFU) [![image](https://img.youtube.com/vi/HYgxGUrdtik/maxresdefault.jpg)](https://youtu.be/HYgxGUrdtik?si=Tq0cIwwLMTQ_AoFU)| Modern preventative-care programs need to reach thousands of patients without drowning clinicians in manual outreach. In this session we show how an open-source, cloud-native stack (including Kubernetes, APISIX, and Prometheus), and the AutoGen multi-agent framework, automates the entire loop: (1) defining U.S. Preventive Services Task Force screening criteria, (2) filtering patient records, and (3) generating personalized emails via OSS LLMs (Llama 3 & DeepSeek-R1) served behind an OpenAI-compatible API on K8s-native AI accelerators. We’ll dissect the YAML and Helm chart flows that keep model endpoints, agents, and the Streamlit front end deployed. Attendees will learn how to: build the model inference endpoint orchestration layers with K8s and Helm charts; manage API traffic and authentication with APISIX (built on NGINX and etcd); stitch agents together with async Python; and oversee monitoring and observability with Prometheus and Grafana.| 133 |
 | [Building AI Agents with MCP and LangChain](https://youtu.be/4LcWzuiVqbg?si=b2ARwNtRVTRvnjaI) [![langchain](images/Intel-AI-Essentials_5.png)](https://youtu.be/4LcWzuiVqbg?si=b2ARwNtRVTRvnjaI) | Build your own AI agentic workflow with Langchain, LangGraph, and MCP. You can get started with an MCP math server and an MCP weather server and equip your agents with those tools. Leverage LLM models from the Llama and DeepSeek families. You can bring your own OpenAI-compatible API key and model endpoint to get started, or use the endpoints hosted on Intel Gaudi accelerators or Intel Xeon CPUs. | 356,014 |
 | [Building an LLM-Powered Chatbot with Streamlit and Hugging Face](https://youtu.be/uvSEmGUqGEk?si=5lA5Bq3whmStAxvV) [![streamlitchatbot](images/Intel-AI-Essentials_4.png)](https://youtu.be/uvSEmGUqGEk?si=5lA5Bq3whmStAxvV) | Build your own chatbot on Hugging Face with Streamlit. I will show you how to connect your OpenAI API compatible endpoint and model to a Hugging Face Space app that you can use for your own chat applications. The model inference endpoints are hosted on Intel Gaudi or Intel Xeon and deployed on Denvr Dataworks' cloud servers. | 608 |
