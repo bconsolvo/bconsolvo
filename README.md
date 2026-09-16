@@ -22,13 +22,13 @@ Hello! I am an AI Engineer. I enjoy building cutting-edge agentic AI, GenAI, LLM
 ## Contributions
 - [Videos](#videos) - Technical talks on agentic AI, LLMs, AMD hardware, and computer vision.
 - [Articles](#articles) - Published guides on agentic AI, LLMs, stable diffusion, and quantization.
-- [Conference Talks](#conference-talks) - Talks at KubeCon, PyTorch Conference, and geophysics conferences.
-- [Formal Publications](#formal-publications) - Peer-reviewed research in full-waveform inversion and deep learning.
-- [Hugging Face Contributions](#hugging-face-contributions) - AMD NPU model cards, a collection, spaces, and articles.
+- [Conference Talks](#conference-talks) - Talks at KubeCon, PyTorch, and other conferences.
+- [Formal Publications](#formal-publications) - Peer-reviewed research in deep learning and geophysics.
+- [Hugging Face Contributions](#hugging-face-contributions) - Model cards, collections, spaces, and articles.
 - [Kaggle Contributions](#kaggle-contributions) - Python notebooks on NLP, deep learning, and platform hardware.
-- [GitHub Activity](#github-activity) - Lead engineer on AMD Playbooks; Intel and PyTorch contributions.
+- [GitHub Activity](#github-activity) - Lead engineer on AMD Playbooks and other contributions.
 - [Podcasts](#podcasts) - Guest on Practical AI and Code Together.
-- [Work Experience](#work-experience) - AI engineering at AMD and Intel; geophysics research background.
+- [Work Experience](#work-experience) - AI engineering at AMD and Intel.
 - [Education](#education) - Degrees in geophysics, education, and mathematics.
 - [Contact](#contact) - How to reach me.
 
