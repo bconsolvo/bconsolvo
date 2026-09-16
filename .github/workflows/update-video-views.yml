@@ -1,0 +1,49 @@
+name: Update video view counts
+
+# Refreshes the YouTube view counts (and the total) in the Videos table of
+# README.md. Runs weekly and can be triggered manually from the Actions tab.
+#
+# Requires a repository secret named YOUTUBE_API_KEY holding a YouTube Data
+# API v3 key (Google Cloud Console -> APIs & Services -> Credentials).
+
+on:
+  schedule:
+    # 07:17 UTC every Monday (off the top of the hour to avoid cron congestion).
+    - cron: "17 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-video-views
+  cancel-in-progress: false
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update view counts in README
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python .github/scripts/update_video_views.py
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh YouTube view counts [skip ci]"
+            git push
+          else
+            echo "No view-count changes to commit."
+          fi
